@@ -1,0 +1,1201 @@
+usage_id,usage_date,usage_time,student_id,resource_type,building_name,duration_minutes,checkin_method,is_peak_time
+1,2025-11-15,12:12:00,S02848,Gym,DBAC,84,MobileApp,True
+2,2025-11-15,08:10:00,S03108,Library,Mills Library,37,MobileApp,False
+3,2025-11-15,08:16:00,S03618,Library,ITB,25,MobileApp,False
+4,2025-11-15,21:29:00,S01488,ComputerLab,JHE,91,FrontDesk,True
+5,2025-11-15,09:17:00,S02408,Cafeteria,Thode Library,84,MobileApp,False
+6,2025-11-15,19:22:00,S03786,Gym,DBAC,108,CardSwipe,True
+7,2025-11-15,18:33:00,S00312,Library,Thode Library,33,CardSwipe,True
+8,2025-11-15,11:36:00,S00675,Library,JHE,84,CardSwipe,True
+9,2025-11-15,19:38:00,S00989,Gym,ITB,87,CardSwipe,True
+10,2025-11-15,08:53:00,S03382,StudyRoom,Thode Library,126,CardSwipe,False
+11,2025-11-15,19:10:00,S03862,StudyRoom,ITB,103,MobileApp,True
+12,2025-11-15,14:17:00,S00366,Cafeteria,PGCLL,103,CardSwipe,False
+13,2025-11-15,13:46:00,S03244,Cafeteria,PGCLL,55,CardSwipe,True
+14,2025-11-15,19:16:00,S03753,Library,PGCLL,96,FrontDesk,True
+15,2025-11-15,22:15:00,S02431,Library,PGCLL,15,CardSwipe,False
+16,2025-11-15,13:02:00,S04246,StudyRoom,Thode Library,101,FrontDesk,True
+17,2025-11-15,20:40:00,S03875,Cafeteria,PGCLL,32,CardSwipe,True
+18,2025-11-15,18:20:00,S01176,StudyRoom,ITB,118,MobileApp,True
+19,2025-11-15,14:09:00,S01082,Gym,DBAC,108,FrontDesk,False
+20,2025-11-15,18:40:00,S03686,StudyRoom,ITB,61,MobileApp,True
+21,2025-11-15,17:48:00,S01118,StudyRoom,DBAC,119,CardSwipe,False
+22,2025-11-15,21:10:00,S04005,Library,Mills Library,79,MobileApp,True
+23,2025-11-15,16:15:00,S02008,StudyRoom,JHE,143,FrontDesk,False
+24,2025-11-15,17:20:00,S04495,ComputerLab,JHE,86,CardSwipe,False
+25,2025-11-15,14:34:00,S01823,Gym,JHE,81,CardSwipe,False
+26,2025-11-15,14:43:00,S03504,ComputerLab,JHE,88,MobileApp,False
+27,2025-11-15,08:42:00,S01022,Gym,DBAC,84,FrontDesk,False
+28,2025-11-15,19:58:00,S00072,Cafeteria,PGCLL,117,CardSwipe,True
+29,2025-11-15,10:11:00,S04021,Library,Mills Library,113,FrontDesk,False
+30,2025-11-15,20:04:00,S00968,Library,Mills Library,106,CardSwipe,True
+31,2025-11-15,12:20:00,S03205,ComputerLab,PGCLL,86,FrontDesk,True
+32,2025-11-15,09:48:00,S03964,Gym,JHE,58,CardSwipe,False
+33,2025-11-15,21:34:00,S00678,ComputerLab,Thode Library,104,FrontDesk,True
+34,2025-11-15,15:11:00,S00792,ComputerLab,ITB,117,CardSwipe,False
+35,2025-11-15,18:28:00,S01793,Gym,Thode Library,108,FrontDesk,True
+36,2025-11-15,14:36:00,S03884,StudyRoom,PGCLL,91,CardSwipe,False
+37,2025-11-15,10:00:00,S02312,Library,Thode Library,96,MobileApp,False
+38,2025-11-15,10:32:00,S04875,Cafeteria,Mills Library,98,CardSwipe,False
+39,2025-11-15,11:56:00,S03107,Library,JHE,79,CardSwipe,True
+40,2025-11-15,13:48:00,S04683,Cafeteria,ITB,87,CardSwipe,True
+41,2025-11-15,19:51:00,S02433,Cafeteria,PGCLL,146,MobileApp,True
+42,2025-11-15,14:53:00,S00049,Gym,DBAC,72,CardSwipe,False
+43,2025-11-15,21:29:00,S00663,Gym,PGCLL,124,MobileApp,True
+44,2025-11-15,10:34:00,S04207,Library,Thode Library,58,FrontDesk,False
+45,2025-11-15,20:05:00,S01144,Library,JHE,74,CardSwipe,True
+46,2025-11-15,20:47:00,S03818,ComputerLab,JHE,38,FrontDesk,True
+47,2025-11-15,11:11:00,S03896,Cafeteria,ITB,67,CardSwipe,True
+48,2025-11-15,11:31:00,S01278,ComputerLab,JHE,137,CardSwipe,True
+49,2025-11-15,09:25:00,S01193,Library,JHE,35,CardSwipe,False
+50,2025-11-15,13:30:00,S04522,StudyRoom,Thode Library,83,CardSwipe,True
+51,2025-11-15,21:56:00,S04622,Gym,PGCLL,62,FrontDesk,True
+52,2025-11-15,18:28:00,S03511,Gym,JHE,104,FrontDesk,True
+53,2025-11-15,19:10:00,S04825,StudyRoom,Mills Library,32,MobileApp,True
+54,2025-11-15,18:10:00,S00041,Cafeteria,DBAC,66,FrontDesk,True
+55,2025-11-15,13:59:00,S01593,StudyRoom,ITB,61,CardSwipe,True
+56,2025-11-15,19:56:00,S02070,Library,Thode Library,63,MobileApp,True
+57,2025-11-15,20:33:00,S01082,StudyRoom,ITB,26,FrontDesk,True
+58,2025-11-15,13:09:00,S02065,StudyRoom,DBAC,107,FrontDesk,True
+59,2025-11-15,13:36:00,S02035,ComputerLab,ITB,75,FrontDesk,True
+60,2025-11-15,19:32:00,S01125,StudyRoom,PGCLL,97,MobileApp,True
+61,2025-11-15,17:38:00,S03197,Cafeteria,ITB,38,FrontDesk,False
+62,2025-11-15,11:30:00,S01510,ComputerLab,DBAC,106,FrontDesk,True
+63,2025-11-15,19:22:00,S04311,Library,Thode Library,100,CardSwipe,True
+64,2025-11-15,14:31:00,S03093,Cafeteria,DBAC,75,MobileApp,False
+65,2025-11-15,19:20:00,S04357,Library,JHE,87,CardSwipe,True
+66,2025-11-15,18:39:00,S00561,ComputerLab,DBAC,83,FrontDesk,True
+67,2025-11-15,22:37:00,S01476,ComputerLab,PGCLL,91,CardSwipe,False
+68,2025-11-15,21:27:00,S03610,Cafeteria,PGCLL,104,CardSwipe,True
+69,2025-11-15,16:26:00,S01406,StudyRoom,JHE,131,MobileApp,False
+70,2025-11-15,12:59:00,S01468,Library,JHE,161,FrontDesk,True
+71,2025-11-15,14:49:00,S03577,Gym,ITB,82,FrontDesk,False
+72,2025-11-15,12:13:00,S01354,StudyRoom,DBAC,38,FrontDesk,True
+73,2025-11-15,20:49:00,S04988,Gym,DBAC,51,MobileApp,True
+74,2025-11-15,14:09:00,S04449,ComputerLab,Thode Library,107,FrontDesk,False
+75,2025-11-15,12:16:00,S03563,Gym,PGCLL,109,FrontDesk,True
+76,2025-11-15,14:59:00,S04775,Library,Thode Library,132,FrontDesk,False
+77,2025-11-15,19:36:00,S00053,Cafeteria,JHE,108,MobileApp,True
+78,2025-11-15,14:08:00,S02261,Cafeteria,DBAC,126,FrontDesk,False
+79,2025-11-15,19:54:00,S02553,Gym,JHE,86,FrontDesk,True
+80,2025-11-15,18:40:00,S01046,ComputerLab,JHE,126,FrontDesk,True
+81,2025-11-15,20:58:00,S02174,ComputerLab,PGCLL,95,CardSwipe,True
+82,2025-11-15,21:29:00,S01035,StudyRoom,JHE,77,MobileApp,True
+83,2025-11-15,21:02:00,S03308,Gym,JHE,64,MobileApp,True
+84,2025-11-15,18:03:00,S02147,Library,Mills Library,123,CardSwipe,True
+85,2025-11-15,21:40:00,S04623,Gym,DBAC,94,FrontDesk,True
+86,2025-11-15,14:56:00,S03699,StudyRoom,ITB,56,MobileApp,False
+87,2025-11-15,20:39:00,S04394,ComputerLab,Thode Library,135,MobileApp,True
+88,2025-11-15,13:37:00,S01463,Gym,DBAC,48,FrontDesk,True
+89,2025-11-15,11:30:00,S03177,StudyRoom,Mills Library,54,FrontDesk,True
+90,2025-11-15,18:10:00,S01074,Library,PGCLL,117,FrontDesk,True
+91,2025-11-15,14:48:00,S01069,Library,Mills Library,80,MobileApp,False
+92,2025-11-15,08:16:00,S02912,Library,Thode Library,60,MobileApp,False
+93,2025-11-15,11:37:00,S00081,Library,PGCLL,60,FrontDesk,True
+94,2025-11-15,11:43:00,S00696,ComputerLab,JHE,137,CardSwipe,True
+95,2025-11-15,20:12:00,S02293,Gym,PGCLL,74,CardSwipe,True
+96,2025-11-15,18:17:00,S03414,Library,Thode Library,45,FrontDesk,True
+97,2025-11-15,22:26:00,S02980,Library,Thode Library,131,CardSwipe,False
+98,2025-11-15,20:48:00,S03994,Gym,PGCLL,61,CardSwipe,True
+99,2025-11-15,20:09:00,S03671,Cafeteria,Mills Library,62,FrontDesk,True
+100,2025-11-15,12:46:00,S00160,StudyRoom,PGCLL,22,MobileApp,True
+101,2025-11-15,12:34:00,S03542,Gym,DBAC,134,MobileApp,True
+102,2025-11-15,21:38:00,S01886,Library,DBAC,98,MobileApp,True
+103,2025-11-15,11:54:00,S00628,Cafeteria,DBAC,127,CardSwipe,True
+104,2025-11-15,13:51:00,S01464,StudyRoom,Mills Library,66,CardSwipe,True
+105,2025-11-15,20:23:00,S02447,Library,PGCLL,42,MobileApp,True
+106,2025-11-15,10:53:00,S03877,ComputerLab,Thode Library,142,CardSwipe,False
+107,2025-11-15,14:25:00,S03924,Cafeteria,JHE,103,FrontDesk,False
+108,2025-11-15,18:12:00,S00291,ComputerLab,PGCLL,64,FrontDesk,True
+109,2025-11-15,08:44:00,S01791,StudyRoom,Mills Library,108,FrontDesk,False
+110,2025-11-15,10:26:00,S01301,StudyRoom,DBAC,87,FrontDesk,False
+111,2025-11-15,19:39:00,S02685,Gym,DBAC,52,CardSwipe,True
+112,2025-11-15,19:48:00,S02606,Cafeteria,PGCLL,46,MobileApp,True
+113,2025-11-15,21:14:00,S03157,Gym,PGCLL,82,FrontDesk,True
+114,2025-11-15,21:29:00,S00092,Gym,JHE,102,CardSwipe,True
+115,2025-11-15,08:30:00,S03228,Library,Thode Library,84,CardSwipe,False
+116,2025-11-15,18:46:00,S02436,StudyRoom,JHE,90,FrontDesk,True
+117,2025-11-15,18:32:00,S04747,StudyRoom,PGCLL,41,MobileApp,True
+118,2025-11-15,22:26:00,S03606,Library,Thode Library,86,FrontDesk,False
+119,2025-11-15,21:33:00,S02193,Gym,DBAC,103,FrontDesk,True
+120,2025-11-15,11:54:00,S01801,Cafeteria,JHE,93,FrontDesk,True
+121,2025-11-15,13:59:00,S04215,StudyRoom,ITB,75,FrontDesk,True
+122,2025-11-15,13:55:00,S02759,Gym,Thode Library,58,CardSwipe,True
+123,2025-11-15,11:30:00,S02849,Cafeteria,ITB,119,CardSwipe,True
+124,2025-11-15,12:21:00,S02082,Cafeteria,JHE,113,FrontDesk,True
+125,2025-11-15,19:05:00,S03077,StudyRoom,ITB,71,MobileApp,True
+126,2025-11-15,14:01:00,S03016,ComputerLab,Thode Library,95,CardSwipe,False
+127,2025-11-15,19:04:00,S02438,ComputerLab,JHE,114,FrontDesk,True
+128,2025-11-15,20:45:00,S03305,Cafeteria,DBAC,55,MobileApp,True
+129,2025-11-15,12:49:00,S02643,Library,Thode Library,115,MobileApp,True
+130,2025-11-15,13:54:00,S04454,Library,Mills Library,81,FrontDesk,True
+131,2025-11-15,09:42:00,S02434,Library,ITB,104,CardSwipe,False
+132,2025-11-15,21:59:00,S00973,Gym,DBAC,15,CardSwipe,True
+133,2025-11-15,11:56:00,S00262,Library,Mills Library,60,CardSwipe,True
+134,2025-11-15,16:49:00,S04545,Gym,JHE,108,MobileApp,False
+135,2025-11-15,20:43:00,S04458,ComputerLab,ITB,134,FrontDesk,True
+136,2025-11-15,20:09:00,S04745,StudyRoom,PGCLL,29,MobileApp,True
+137,2025-11-15,13:22:00,S04256,Gym,PGCLL,89,MobileApp,True
+138,2025-11-15,16:22:00,S00718,Gym,DBAC,66,MobileApp,False
+139,2025-11-15,12:31:00,S00625,Gym,JHE,61,MobileApp,True
+140,2025-11-15,14:52:00,S00517,StudyRoom,Mills Library,81,CardSwipe,False
+141,2025-11-15,11:04:00,S00582,Gym,ITB,104,CardSwipe,True
+142,2025-11-15,20:42:00,S04272,ComputerLab,ITB,119,MobileApp,True
+143,2025-11-15,14:44:00,S01347,StudyRoom,ITB,55,MobileApp,False
+144,2025-11-15,14:16:00,S03111,Library,Mills Library,186,FrontDesk,False
+145,2025-11-15,09:28:00,S01858,Cafeteria,Thode Library,85,FrontDesk,False
+146,2025-11-15,21:51:00,S00210,Cafeteria,ITB,69,FrontDesk,True
+147,2025-11-15,16:39:00,S04157,ComputerLab,ITB,101,CardSwipe,False
+148,2025-11-15,14:19:00,S00549,StudyRoom,PGCLL,153,CardSwipe,False
+149,2025-11-15,12:23:00,S04943,ComputerLab,ITB,72,FrontDesk,True
+150,2025-11-15,16:13:00,S02759,ComputerLab,JHE,123,FrontDesk,False
+151,2025-11-15,13:03:00,S04875,Library,Thode Library,77,MobileApp,True
+152,2025-11-15,15:57:00,S04377,Cafeteria,ITB,104,CardSwipe,False
+153,2025-11-15,12:11:00,S04071,ComputerLab,Mills Library,74,CardSwipe,True
+154,2025-11-15,11:00:00,S02022,Library,Mills Library,118,CardSwipe,True
+155,2025-11-15,20:51:00,S03210,ComputerLab,ITB,92,MobileApp,True
+156,2025-11-15,21:21:00,S03663,Gym,PGCLL,149,FrontDesk,True
+157,2025-11-15,14:32:00,S04152,Library,ITB,106,MobileApp,False
+158,2025-11-15,11:08:00,S02611,Library,JHE,71,FrontDesk,True
+159,2025-11-15,17:47:00,S02307,ComputerLab,Mills Library,64,FrontDesk,False
+160,2025-11-15,14:58:00,S03225,Gym,DBAC,39,CardSwipe,False
+161,2025-11-15,13:51:00,S02883,Library,Thode Library,61,MobileApp,True
+162,2025-11-15,18:32:00,S04119,Gym,DBAC,106,FrontDesk,True
+163,2025-11-15,12:10:00,S02616,StudyRoom,JHE,51,CardSwipe,True
+164,2025-11-15,20:36:00,S03140,StudyRoom,JHE,80,MobileApp,True
+165,2025-11-15,15:19:00,S00081,Gym,DBAC,45,CardSwipe,False
+166,2025-11-15,12:36:00,S02452,ComputerLab,Mills Library,67,FrontDesk,True
+167,2025-11-15,22:48:00,S02763,Library,Thode Library,76,CardSwipe,False
+168,2025-11-15,13:26:00,S02460,StudyRoom,JHE,66,CardSwipe,True
+169,2025-11-15,21:26:00,S03299,StudyRoom,ITB,46,CardSwipe,True
+170,2025-11-15,21:41:00,S03318,Cafeteria,ITB,35,FrontDesk,True
+171,2025-11-15,13:16:00,S02732,Library,Mills Library,66,CardSwipe,True
+172,2025-11-15,13:29:00,S03756,Library,Mills Library,56,FrontDesk,True
+173,2025-11-15,18:13:00,S04889,Cafeteria,PGCLL,130,FrontDesk,True
+174,2025-11-15,14:56:00,S01388,Library,Mills Library,78,FrontDesk,False
+175,2025-11-15,21:49:00,S01281,Cafeteria,ITB,83,CardSwipe,True
+176,2025-11-15,21:13:00,S03887,Cafeteria,JHE,66,MobileApp,True
+177,2025-11-15,18:32:00,S00864,ComputerLab,ITB,74,MobileApp,True
+178,2025-11-15,14:26:00,S01803,StudyRoom,JHE,55,FrontDesk,False
+179,2025-11-15,18:50:00,S04061,Gym,DBAC,86,MobileApp,True
+180,2025-11-15,14:15:00,S04502,Library,PGCLL,117,FrontDesk,False
+181,2025-11-15,14:28:00,S02712,StudyRoom,Thode Library,70,FrontDesk,False
+182,2025-11-15,14:16:00,S04475,StudyRoom,JHE,70,FrontDesk,False
+183,2025-11-15,21:52:00,S00327,Gym,JHE,72,CardSwipe,True
+184,2025-11-15,11:36:00,S04676,Cafeteria,ITB,129,FrontDesk,True
+185,2025-11-15,20:19:00,S00380,ComputerLab,JHE,57,CardSwipe,True
+186,2025-11-15,20:39:00,S00945,Library,Mills Library,117,CardSwipe,True
+187,2025-11-15,08:22:00,S04372,Library,Thode Library,115,CardSwipe,False
+188,2025-11-15,19:09:00,S03689,StudyRoom,PGCLL,125,MobileApp,True
+189,2025-11-15,19:09:00,S02299,StudyRoom,Thode Library,78,FrontDesk,True
+190,2025-11-15,18:35:00,S04149,Library,Mills Library,51,CardSwipe,True
+191,2025-11-15,18:36:00,S02115,Gym,DBAC,42,MobileApp,True
+192,2025-11-15,12:40:00,S01427,Gym,PGCLL,91,MobileApp,True
+193,2025-11-15,19:52:00,S04412,ComputerLab,Mills Library,129,CardSwipe,True
+194,2025-11-15,19:46:00,S00124,Gym,ITB,98,CardSwipe,True
+195,2025-11-15,14:30:00,S01094,Cafeteria,JHE,112,MobileApp,False
+196,2025-11-15,16:06:00,S01961,ComputerLab,PGCLL,106,MobileApp,False
+197,2025-11-15,12:43:00,S04255,Cafeteria,Thode Library,82,FrontDesk,True
+198,2025-11-15,14:42:00,S00849,ComputerLab,PGCLL,97,CardSwipe,False
+199,2025-11-15,11:50:00,S02193,StudyRoom,Thode Library,115,MobileApp,True
+200,2025-11-15,14:12:00,S03769,ComputerLab,ITB,106,MobileApp,False
+201,2025-11-15,19:19:00,S02170,Library,JHE,89,CardSwipe,True
+202,2025-11-15,18:46:00,S00252,StudyRoom,PGCLL,71,CardSwipe,True
+203,2025-11-15,16:17:00,S04953,Gym,JHE,108,CardSwipe,False
+204,2025-11-15,19:56:00,S03319,Library,Thode Library,85,CardSwipe,True
+205,2025-11-15,18:54:00,S04823,StudyRoom,DBAC,121,CardSwipe,True
+206,2025-11-15,14:46:00,S04960,Gym,DBAC,130,MobileApp,False
+207,2025-11-15,11:54:00,S03093,Library,JHE,48,CardSwipe,True
+208,2025-11-15,19:02:00,S00095,Gym,DBAC,105,CardSwipe,True
+209,2025-11-15,19:07:00,S03232,StudyRoom,ITB,61,MobileApp,True
+210,2025-11-15,12:17:00,S00088,Cafeteria,JHE,141,CardSwipe,True
+211,2025-11-15,21:34:00,S00802,ComputerLab,ITB,51,CardSwipe,True
+212,2025-11-15,19:45:00,S01450,Gym,ITB,98,FrontDesk,True
+213,2025-11-15,15:41:00,S03398,Cafeteria,PGCLL,88,CardSwipe,False
+214,2025-11-15,13:01:00,S02771,Gym,DBAC,72,CardSwipe,True
+215,2025-11-15,22:57:00,S04508,Cafeteria,JHE,66,FrontDesk,False
+216,2025-11-15,13:37:00,S02852,Library,Mills Library,107,MobileApp,True
+217,2025-11-15,12:08:00,S04432,Library,JHE,98,CardSwipe,True
+218,2025-11-15,13:22:00,S04873,Cafeteria,ITB,26,FrontDesk,True
+219,2025-11-15,19:42:00,S01723,ComputerLab,ITB,90,CardSwipe,True
+220,2025-11-15,18:45:00,S02022,Gym,ITB,89,FrontDesk,True
+221,2025-11-15,14:56:00,S04176,Gym,PGCLL,105,CardSwipe,False
+222,2025-11-15,18:22:00,S02940,ComputerLab,ITB,72,FrontDesk,True
+223,2025-11-15,21:40:00,S01121,StudyRoom,Thode Library,121,FrontDesk,True
+224,2025-11-15,20:13:00,S02386,ComputerLab,Thode Library,50,CardSwipe,True
+225,2025-11-15,12:58:00,S04863,Gym,DBAC,59,CardSwipe,True
+226,2025-11-15,12:52:00,S04432,Library,Mills Library,90,MobileApp,True
+227,2025-11-15,09:33:00,S03981,Library,Thode Library,71,CardSwipe,False
+228,2025-11-15,14:02:00,S03039,StudyRoom,Mills Library,71,CardSwipe,False
+229,2025-11-15,21:41:00,S00938,Gym,PGCLL,73,CardSwipe,True
+230,2025-11-15,11:54:00,S04534,Gym,DBAC,80,FrontDesk,True
+231,2025-11-15,18:46:00,S03553,Library,JHE,55,MobileApp,True
+232,2025-11-15,12:18:00,S01322,StudyRoom,JHE,81,FrontDesk,True
+233,2025-11-15,11:25:00,S00089,ComputerLab,JHE,161,MobileApp,True
+234,2025-11-15,12:51:00,S01436,Gym,DBAC,68,CardSwipe,True
+235,2025-11-15,14:51:00,S03424,Gym,ITB,136,MobileApp,False
+236,2025-11-15,12:23:00,S02183,Cafeteria,DBAC,15,FrontDesk,True
+237,2025-11-15,12:11:00,S03112,Cafeteria,PGCLL,57,FrontDesk,True
+238,2025-11-15,12:05:00,S02659,Library,Mills Library,74,CardSwipe,True
+239,2025-11-15,12:17:00,S04484,Gym,DBAC,90,CardSwipe,True
+240,2025-11-15,19:41:00,S04244,StudyRoom,PGCLL,110,CardSwipe,True
+241,2025-11-15,21:22:00,S04647,Gym,JHE,30,FrontDesk,True
+242,2025-11-15,13:15:00,S03750,Library,PGCLL,61,MobileApp,True
+243,2025-11-15,21:57:00,S02608,Library,PGCLL,51,FrontDesk,True
+244,2025-11-15,20:33:00,S04210,Cafeteria,Mills Library,74,FrontDesk,True
+245,2025-11-15,20:15:00,S01802,ComputerLab,ITB,98,CardSwipe,True
+246,2025-11-15,20:15:00,S00286,ComputerLab,PGCLL,62,FrontDesk,True
+247,2025-11-15,13:18:00,S01100,Gym,DBAC,105,CardSwipe,True
+248,2025-11-15,13:59:00,S02908,ComputerLab,Mills Library,65,CardSwipe,True
+249,2025-11-15,13:38:00,S00217,Library,JHE,74,MobileApp,True
+250,2025-11-15,15:15:00,S02629,Cafeteria,ITB,115,MobileApp,False
+251,2025-11-15,22:56:00,S00059,Gym,DBAC,70,FrontDesk,False
+252,2025-11-15,19:54:00,S03000,StudyRoom,DBAC,144,FrontDesk,True
+253,2025-11-15,21:52:00,S02737,Gym,JHE,97,CardSwipe,True
+254,2025-11-15,08:59:00,S02341,Cafeteria,DBAC,85,MobileApp,False
+255,2025-11-15,18:22:00,S03343,Library,PGCLL,81,FrontDesk,True
+256,2025-11-15,12:08:00,S03305,ComputerLab,ITB,123,FrontDesk,True
+257,2025-11-15,22:55:00,S03891,Gym,JHE,98,CardSwipe,False
+258,2025-11-15,15:49:00,S02239,Library,Mills Library,69,FrontDesk,False
+259,2025-11-15,21:38:00,S04962,Cafeteria,ITB,106,CardSwipe,True
+260,2025-11-15,11:00:00,S03406,Library,Thode Library,133,FrontDesk,True
+261,2025-11-15,13:12:00,S04382,StudyRoom,DBAC,81,MobileApp,True
+262,2025-11-15,13:50:00,S01790,Cafeteria,PGCLL,123,FrontDesk,True
+263,2025-11-15,12:40:00,S01265,Gym,DBAC,98,MobileApp,True
+264,2025-11-15,14:14:00,S02056,Library,DBAC,105,MobileApp,False
+265,2025-11-15,19:40:00,S03511,StudyRoom,Thode Library,15,FrontDesk,True
+266,2025-11-15,14:26:00,S01908,StudyRoom,Mills Library,152,MobileApp,False
+267,2025-11-15,14:14:00,S01083,StudyRoom,Mills Library,58,FrontDesk,False
+268,2025-11-15,13:41:00,S02890,ComputerLab,PGCLL,74,MobileApp,True
+269,2025-11-15,18:46:00,S01979,Cafeteria,PGCLL,85,FrontDesk,True
+270,2025-11-15,11:15:00,S04418,Cafeteria,DBAC,102,CardSwipe,True
+271,2025-11-15,17:33:00,S01338,Gym,DBAC,80,MobileApp,False
+272,2025-11-15,19:00:00,S02399,Cafeteria,PGCLL,121,FrontDesk,True
+273,2025-11-15,20:00:00,S00486,Gym,DBAC,71,CardSwipe,True
+274,2025-11-15,21:24:00,S03862,Library,Thode Library,175,FrontDesk,True
+275,2025-11-15,19:07:00,S04712,Library,Mills Library,132,FrontDesk,True
+276,2025-11-15,20:33:00,S02816,StudyRoom,Thode Library,90,MobileApp,True
+277,2025-11-15,19:28:00,S04210,StudyRoom,Mills Library,84,FrontDesk,True
+278,2025-11-15,19:02:00,S00255,Library,PGCLL,75,FrontDesk,True
+279,2025-11-15,16:35:00,S04535,Library,Mills Library,139,MobileApp,False
+280,2025-11-15,21:10:00,S00089,Library,ITB,105,FrontDesk,True
+281,2025-11-15,18:55:00,S02860,StudyRoom,Mills Library,83,FrontDesk,True
+282,2025-11-15,11:24:00,S03267,Library,Mills Library,103,FrontDesk,True
+283,2025-11-15,16:18:00,S03576,Cafeteria,JHE,71,CardSwipe,False
+284,2025-11-15,12:31:00,S00440,Gym,JHE,101,CardSwipe,True
+285,2025-11-15,17:35:00,S03797,StudyRoom,Mills Library,57,FrontDesk,False
+286,2025-11-15,21:37:00,S04045,ComputerLab,Thode Library,164,MobileApp,True
+287,2025-11-15,21:55:00,S02202,Library,JHE,104,MobileApp,True
+288,2025-11-15,11:25:00,S02657,Library,Mills Library,86,FrontDesk,True
+289,2025-11-15,11:13:00,S04528,ComputerLab,JHE,47,CardSwipe,True
+290,2025-11-15,22:05:00,S01038,Cafeteria,ITB,102,CardSwipe,False
+291,2025-11-15,20:05:00,S02794,StudyRoom,Thode Library,84,CardSwipe,True
+292,2025-11-15,09:37:00,S00822,StudyRoom,Mills Library,96,MobileApp,False
+293,2025-11-15,20:37:00,S03109,StudyRoom,DBAC,74,FrontDesk,True
+294,2025-11-15,11:59:00,S01240,Cafeteria,ITB,103,FrontDesk,True
+295,2025-11-15,10:27:00,S02472,Gym,JHE,67,MobileApp,False
+296,2025-11-15,20:23:00,S02815,Library,Thode Library,91,CardSwipe,True
+297,2025-11-15,11:00:00,S00537,Gym,DBAC,67,CardSwipe,True
+298,2025-11-15,13:15:00,S03531,Cafeteria,DBAC,141,CardSwipe,True
+299,2025-11-15,12:05:00,S02545,Gym,JHE,74,CardSwipe,True
+300,2025-11-15,08:14:00,S02948,Library,JHE,62,CardSwipe,False
+301,2025-11-15,13:52:00,S03899,StudyRoom,PGCLL,47,FrontDesk,True
+302,2025-11-15,11:39:00,S04730,ComputerLab,ITB,75,CardSwipe,True
+303,2025-11-15,14:57:00,S03842,ComputerLab,Mills Library,108,CardSwipe,False
+304,2025-11-15,21:50:00,S04828,StudyRoom,DBAC,66,MobileApp,True
+305,2025-11-15,20:01:00,S02317,Library,Thode Library,88,FrontDesk,True
+306,2025-11-15,12:40:00,S00319,Gym,PGCLL,102,MobileApp,True
+307,2025-11-15,13:42:00,S02929,Cafeteria,Thode Library,98,CardSwipe,True
+308,2025-11-15,13:44:00,S02636,Library,Mills Library,83,FrontDesk,True
+309,2025-11-15,21:03:00,S02255,Gym,PGCLL,87,MobileApp,True
+310,2025-11-15,10:04:00,S01636,Gym,ITB,68,FrontDesk,False
+311,2025-11-15,14:26:00,S02356,StudyRoom,Thode Library,71,FrontDesk,False
+312,2025-11-15,19:05:00,S02333,Library,Mills Library,97,CardSwipe,True
+313,2025-11-15,20:23:00,S00022,Library,Thode Library,96,MobileApp,True
+314,2025-11-15,14:32:00,S02041,Cafeteria,PGCLL,75,CardSwipe,False
+315,2025-11-15,09:36:00,S00961,Gym,DBAC,53,MobileApp,False
+316,2025-11-15,21:15:00,S03734,ComputerLab,Thode Library,54,MobileApp,True
+317,2025-11-15,13:16:00,S02253,Library,Mills Library,93,MobileApp,True
+318,2025-11-15,11:14:00,S03722,Cafeteria,DBAC,104,FrontDesk,True
+319,2025-11-15,13:31:00,S01525,Library,PGCLL,83,MobileApp,True
+320,2025-11-15,19:39:00,S01996,Library,Thode Library,69,FrontDesk,True
+321,2025-11-15,12:31:00,S04099,StudyRoom,Thode Library,86,FrontDesk,True
+322,2025-11-15,12:38:00,S04140,Gym,DBAC,59,CardSwipe,True
+323,2025-11-15,20:05:00,S04157,Gym,Thode Library,112,FrontDesk,True
+324,2025-11-15,09:57:00,S04510,Gym,ITB,53,CardSwipe,False
+325,2025-11-15,09:27:00,S00852,StudyRoom,JHE,120,FrontDesk,False
+326,2025-11-15,19:05:00,S03981,ComputerLab,ITB,83,CardSwipe,True
+327,2025-11-15,20:52:00,S01217,Library,Thode Library,59,FrontDesk,True
+328,2025-11-15,19:38:00,S02574,StudyRoom,Thode Library,133,CardSwipe,True
+329,2025-11-15,16:38:00,S01922,StudyRoom,DBAC,75,FrontDesk,False
+330,2025-11-15,19:50:00,S02793,Library,Thode Library,45,CardSwipe,True
+331,2025-11-15,17:17:00,S03452,StudyRoom,Thode Library,52,MobileApp,False
+332,2025-11-15,20:52:00,S00690,ComputerLab,PGCLL,128,MobileApp,True
+333,2025-11-15,14:41:00,S04875,ComputerLab,Mills Library,80,MobileApp,False
+334,2025-11-15,16:39:00,S01273,Library,Mills Library,90,MobileApp,False
+335,2025-11-15,21:59:00,S04842,ComputerLab,JHE,98,FrontDesk,True
+336,2025-11-15,12:26:00,S00954,Library,Thode Library,143,CardSwipe,True
+337,2025-11-15,12:52:00,S02811,Library,ITB,101,CardSwipe,True
+338,2025-11-15,21:33:00,S02176,ComputerLab,DBAC,15,CardSwipe,True
+339,2025-11-15,13:12:00,S02172,Library,PGCLL,102,MobileApp,True
+340,2025-11-15,22:32:00,S04913,Cafeteria,Thode Library,95,MobileApp,False
+341,2025-11-15,18:37:00,S00876,Library,ITB,110,CardSwipe,True
+342,2025-11-15,13:53:00,S04800,Gym,Mills Library,87,CardSwipe,True
+343,2025-11-15,11:48:00,S04413,StudyRoom,Thode Library,48,MobileApp,True
+344,2025-11-15,20:28:00,S04678,ComputerLab,ITB,75,CardSwipe,True
+345,2025-11-15,13:58:00,S02915,StudyRoom,Mills Library,134,MobileApp,True
+346,2025-11-15,13:43:00,S01098,ComputerLab,PGCLL,74,FrontDesk,True
+347,2025-11-15,20:17:00,S00298,Library,ITB,105,MobileApp,True
+348,2025-11-15,22:00:00,S02439,Library,Thode Library,134,CardSwipe,False
+349,2025-11-15,20:36:00,S04102,Gym,JHE,90,MobileApp,True
+350,2025-11-15,20:47:00,S03912,Cafeteria,ITB,54,MobileApp,True
+351,2025-11-15,12:36:00,S03165,Library,Thode Library,100,MobileApp,True
+352,2025-11-15,12:31:00,S01390,Gym,DBAC,95,MobileApp,True
+353,2025-11-15,12:03:00,S04506,StudyRoom,ITB,136,FrontDesk,True
+354,2025-11-15,18:20:00,S04582,ComputerLab,Thode Library,39,FrontDesk,True
+355,2025-11-15,10:05:00,S00531,Library,PGCLL,50,CardSwipe,False
+356,2025-11-15,08:09:00,S04437,Library,Mills Library,36,CardSwipe,False
+357,2025-11-15,13:59:00,S04783,StudyRoom,PGCLL,98,FrontDesk,True
+358,2025-11-15,21:39:00,S02573,Gym,DBAC,109,FrontDesk,True
+359,2025-11-15,13:11:00,S01881,Library,ITB,110,MobileApp,True
+360,2025-11-15,08:58:00,S00642,ComputerLab,Thode Library,70,MobileApp,False
+361,2025-11-15,20:40:00,S03556,ComputerLab,PGCLL,129,FrontDesk,True
+362,2025-11-15,14:30:00,S04437,Gym,DBAC,68,CardSwipe,False
+363,2025-11-15,10:12:00,S01837,Library,JHE,81,MobileApp,False
+364,2025-11-15,20:23:00,S04637,StudyRoom,Mills Library,79,CardSwipe,True
+365,2025-11-15,08:20:00,S00371,Library,Mills Library,64,MobileApp,False
+366,2025-11-15,21:02:00,S03476,Library,Mills Library,137,MobileApp,True
+367,2025-11-15,18:34:00,S00621,ComputerLab,Mills Library,79,MobileApp,True
+368,2025-11-15,17:50:00,S03088,StudyRoom,PGCLL,111,CardSwipe,False
+369,2025-11-15,19:33:00,S00291,Cafeteria,ITB,101,CardSwipe,True
+370,2025-11-15,21:51:00,S03591,Cafeteria,JHE,71,CardSwipe,True
+371,2025-11-15,12:43:00,S02711,Gym,Mills Library,77,MobileApp,True
+372,2025-11-15,21:59:00,S02883,Cafeteria,PGCLL,72,FrontDesk,True
+373,2025-11-15,18:07:00,S03374,Library,ITB,88,MobileApp,True
+374,2025-11-15,11:34:00,S04340,Gym,JHE,15,FrontDesk,True
+375,2025-11-15,21:22:00,S00905,Gym,DBAC,94,FrontDesk,True
+376,2025-11-15,10:54:00,S01559,Gym,DBAC,70,MobileApp,False
+377,2025-11-15,19:22:00,S02978,Gym,ITB,63,FrontDesk,True
+378,2025-11-15,16:17:00,S00383,Gym,DBAC,106,MobileApp,False
+379,2025-11-15,18:02:00,S04636,Gym,DBAC,140,MobileApp,True
+380,2025-11-15,22:48:00,S02828,Gym,ITB,86,FrontDesk,False
+381,2025-11-15,09:18:00,S00221,Gym,ITB,104,MobileApp,False
+382,2025-11-15,10:01:00,S03193,Gym,PGCLL,120,CardSwipe,False
+383,2025-11-15,20:09:00,S04922,Library,DBAC,58,MobileApp,True
+384,2025-11-15,20:22:00,S03424,Gym,ITB,57,FrontDesk,True
+385,2025-11-15,20:12:00,S04570,Library,Mills Library,102,MobileApp,True
+386,2025-11-15,11:48:00,S00017,Gym,PGCLL,80,FrontDesk,True
+387,2025-11-15,14:12:00,S01285,StudyRoom,PGCLL,127,CardSwipe,False
+388,2025-11-15,19:33:00,S01814,ComputerLab,Thode Library,104,MobileApp,True
+389,2025-11-15,12:00:00,S02483,StudyRoom,Thode Library,120,MobileApp,True
+390,2025-11-15,13:50:00,S04611,Gym,DBAC,72,FrontDesk,True
+391,2025-11-15,20:35:00,S03926,Library,PGCLL,114,MobileApp,True
+392,2025-11-15,12:59:00,S01703,StudyRoom,Mills Library,81,CardSwipe,True
+393,2025-11-15,14:26:00,S00506,ComputerLab,Mills Library,130,CardSwipe,False
+394,2025-11-15,08:37:00,S03880,Library,Thode Library,67,FrontDesk,False
+395,2025-11-15,12:25:00,S02737,Library,Mills Library,37,FrontDesk,True
+396,2025-11-15,17:53:00,S00814,Gym,JHE,87,FrontDesk,False
+397,2025-11-15,12:56:00,S02089,Library,Thode Library,40,FrontDesk,True
+398,2025-11-15,18:10:00,S04291,Library,Thode Library,83,FrontDesk,True
+399,2025-11-15,11:54:00,S02570,ComputerLab,Mills Library,29,FrontDesk,True
+400,2025-11-15,14:42:00,S00691,ComputerLab,ITB,79,MobileApp,False
+401,2025-11-15,20:08:00,S00288,StudyRoom,Thode Library,130,MobileApp,True
+402,2025-11-15,21:18:00,S04480,StudyRoom,DBAC,81,MobileApp,True
+403,2025-11-15,22:29:00,S03496,StudyRoom,Mills Library,43,FrontDesk,False
+404,2025-11-15,13:49:00,S00362,Gym,ITB,85,FrontDesk,True
+405,2025-11-15,08:03:00,S00279,Library,Thode Library,101,FrontDesk,False
+406,2025-11-15,20:05:00,S00927,StudyRoom,Thode Library,109,CardSwipe,True
+407,2025-11-15,19:58:00,S01734,StudyRoom,PGCLL,79,CardSwipe,True
+408,2025-11-15,11:28:00,S02163,Gym,DBAC,78,CardSwipe,True
+409,2025-11-15,15:53:00,S04771,Gym,DBAC,84,MobileApp,False
+410,2025-11-15,15:36:00,S03610,Library,Mills Library,89,CardSwipe,False
+411,2025-11-15,14:16:00,S04718,Library,Mills Library,101,FrontDesk,False
+412,2025-11-15,11:46:00,S02796,Gym,DBAC,138,CardSwipe,True
+413,2025-11-15,12:53:00,S04359,Gym,PGCLL,136,MobileApp,True
+414,2025-11-15,20:41:00,S03265,Library,Mills Library,75,MobileApp,True
+415,2025-11-15,20:40:00,S03040,Library,ITB,82,FrontDesk,True
+416,2025-11-15,22:49:00,S03417,Library,Thode Library,124,CardSwipe,False
+417,2025-11-15,15:05:00,S04011,Cafeteria,PGCLL,66,CardSwipe,False
+418,2025-11-15,11:54:00,S00442,Cafeteria,JHE,115,FrontDesk,True
+419,2025-11-15,11:13:00,S02802,Library,ITB,36,CardSwipe,True
+420,2025-11-15,17:05:00,S02081,StudyRoom,PGCLL,99,MobileApp,False
+421,2025-11-15,19:49:00,S00727,StudyRoom,ITB,90,FrontDesk,True
+422,2025-11-15,14:53:00,S04488,Library,Mills Library,103,CardSwipe,False
+423,2025-11-15,08:03:00,S03791,Cafeteria,DBAC,64,FrontDesk,False
+424,2025-11-15,14:26:00,S00663,Gym,PGCLL,66,MobileApp,False
+425,2025-11-15,18:26:00,S02332,Library,Mills Library,85,MobileApp,True
+426,2025-11-15,20:51:00,S04179,Gym,JHE,132,FrontDesk,True
+427,2025-11-15,12:18:00,S02805,Gym,PGCLL,84,MobileApp,True
+428,2025-11-15,19:02:00,S04090,Gym,DBAC,89,FrontDesk,True
+429,2025-11-15,18:02:00,S01387,ComputerLab,ITB,100,CardSwipe,True
+430,2025-11-15,12:02:00,S01042,Gym,DBAC,70,CardSwipe,True
+431,2025-11-15,11:18:00,S01343,ComputerLab,JHE,91,MobileApp,True
+432,2025-11-15,15:05:00,S04640,Gym,Thode Library,46,MobileApp,False
+433,2025-11-15,12:06:00,S04163,StudyRoom,Thode Library,97,FrontDesk,True
+434,2025-11-15,21:26:00,S00757,Cafeteria,JHE,108,CardSwipe,True
+435,2025-11-15,22:37:00,S02398,Library,JHE,50,MobileApp,False
+436,2025-11-15,18:06:00,S01781,StudyRoom,PGCLL,132,MobileApp,True
+437,2025-11-15,20:01:00,S02752,StudyRoom,PGCLL,84,CardSwipe,True
+438,2025-11-15,16:20:00,S01576,Cafeteria,PGCLL,79,CardSwipe,False
+439,2025-11-15,14:17:00,S04984,ComputerLab,PGCLL,132,CardSwipe,False
+440,2025-11-15,15:04:00,S01544,StudyRoom,ITB,177,FrontDesk,False
+441,2025-11-15,13:58:00,S03751,ComputerLab,ITB,97,FrontDesk,True
+442,2025-11-15,20:02:00,S01676,ComputerLab,ITB,111,CardSwipe,True
+443,2025-11-15,21:16:00,S01132,Gym,DBAC,79,CardSwipe,True
+444,2025-11-15,10:40:00,S02026,StudyRoom,ITB,93,MobileApp,False
+445,2025-11-15,13:45:00,S04708,Library,JHE,104,MobileApp,True
+446,2025-11-15,18:20:00,S02547,Gym,PGCLL,113,MobileApp,True
+447,2025-11-15,11:19:00,S03353,StudyRoom,Mills Library,56,FrontDesk,True
+448,2025-11-15,11:56:00,S03264,Gym,DBAC,102,MobileApp,True
+449,2025-11-15,18:23:00,S00947,Gym,PGCLL,95,MobileApp,True
+450,2025-11-15,10:49:00,S02809,Library,PGCLL,17,MobileApp,False
+451,2025-11-15,11:47:00,S02344,StudyRoom,DBAC,85,MobileApp,True
+452,2025-11-15,22:34:00,S04392,Gym,ITB,31,MobileApp,False
+453,2025-11-15,19:10:00,S03919,ComputerLab,Thode Library,66,CardSwipe,True
+454,2025-11-15,12:10:00,S02643,Library,PGCLL,121,FrontDesk,True
+455,2025-11-15,14:15:00,S02954,ComputerLab,JHE,77,MobileApp,False
+456,2025-11-15,21:22:00,S03065,ComputerLab,JHE,99,CardSwipe,True
+457,2025-11-15,20:12:00,S04134,Gym,DBAC,137,FrontDesk,True
+458,2025-11-15,12:55:00,S04161,StudyRoom,ITB,64,CardSwipe,True
+459,2025-11-15,12:43:00,S00542,StudyRoom,ITB,61,MobileApp,True
+460,2025-11-15,13:33:00,S03990,Cafeteria,Thode Library,75,CardSwipe,True
+461,2025-11-15,18:36:00,S01837,Library,Mills Library,100,CardSwipe,True
+462,2025-11-15,08:09:00,S04995,Cafeteria,PGCLL,112,MobileApp,False
+463,2025-11-15,21:17:00,S01983,Gym,ITB,49,MobileApp,True
+464,2025-11-15,17:04:00,S01513,StudyRoom,Mills Library,114,CardSwipe,False
+465,2025-11-15,14:00:00,S04446,Library,Thode Library,81,FrontDesk,False
+466,2025-11-15,18:44:00,S04670,ComputerLab,DBAC,126,CardSwipe,True
+467,2025-11-15,11:54:00,S02545,Cafeteria,JHE,104,CardSwipe,True
+468,2025-11-15,13:08:00,S03652,ComputerLab,ITB,119,MobileApp,True
+469,2025-11-15,13:22:00,S03811,Library,Thode Library,56,MobileApp,True
+470,2025-11-15,21:45:00,S01434,Library,Mills Library,99,FrontDesk,True
+471,2025-11-15,13:08:00,S02533,StudyRoom,DBAC,15,FrontDesk,True
+472,2025-11-15,18:28:00,S00192,Library,Mills Library,102,CardSwipe,True
+473,2025-11-15,18:48:00,S04795,Library,Mills Library,49,CardSwipe,True
+474,2025-11-15,12:48:00,S02235,Library,Mills Library,79,MobileApp,True
+475,2025-11-15,20:41:00,S04649,Cafeteria,PGCLL,71,MobileApp,True
+476,2025-11-15,10:52:00,S01367,Gym,DBAC,127,FrontDesk,False
+477,2025-11-15,14:38:00,S02851,Library,Thode Library,67,FrontDesk,False
+478,2025-11-15,18:46:00,S02478,Gym,JHE,94,CardSwipe,True
+479,2025-11-15,19:56:00,S04624,Cafeteria,Mills Library,68,FrontDesk,True
+480,2025-11-15,20:53:00,S03864,StudyRoom,Mills Library,62,CardSwipe,True
+481,2025-11-15,19:01:00,S01464,Gym,ITB,123,MobileApp,True
+482,2025-11-15,13:17:00,S00961,StudyRoom,Thode Library,163,MobileApp,True
+483,2025-11-15,21:18:00,S02748,ComputerLab,ITB,73,CardSwipe,True
+484,2025-11-15,18:36:00,S04494,Gym,DBAC,100,FrontDesk,True
+485,2025-11-15,12:27:00,S01155,StudyRoom,Mills Library,92,CardSwipe,True
+486,2025-11-15,11:42:00,S04573,Gym,ITB,80,CardSwipe,True
+487,2025-11-15,18:12:00,S02021,Library,Thode Library,99,CardSwipe,True
+488,2025-11-15,09:34:00,S04773,Cafeteria,PGCLL,98,CardSwipe,False
+489,2025-11-15,12:45:00,S03757,Gym,DBAC,74,CardSwipe,True
+490,2025-11-15,17:22:00,S04830,Cafeteria,JHE,82,FrontDesk,False
+491,2025-11-15,21:18:00,S04967,Library,Mills Library,108,FrontDesk,True
+492,2025-11-15,13:33:00,S01638,Cafeteria,PGCLL,103,CardSwipe,True
+493,2025-11-15,12:39:00,S04373,Cafeteria,ITB,46,FrontDesk,True
+494,2025-11-15,21:17:00,S02220,Cafeteria,JHE,23,CardSwipe,True
+495,2025-11-15,09:36:00,S02014,Library,Thode Library,81,MobileApp,False
+496,2025-11-15,21:12:00,S02737,Cafeteria,JHE,73,MobileApp,True
+497,2025-11-15,19:55:00,S02037,ComputerLab,PGCLL,39,FrontDesk,True
+498,2025-11-15,19:14:00,S02060,ComputerLab,PGCLL,88,FrontDesk,True
+499,2025-11-15,15:14:00,S03700,Library,Thode Library,101,FrontDesk,False
+500,2025-11-15,20:56:00,S04235,ComputerLab,ITB,120,FrontDesk,True
+501,2025-11-15,08:31:00,S02060,Gym,DBAC,103,MobileApp,False
+502,2025-11-15,13:21:00,S01923,Gym,DBAC,99,FrontDesk,True
+503,2025-11-15,18:14:00,S01005,StudyRoom,Thode Library,82,CardSwipe,True
+504,2025-11-15,18:36:00,S03336,Library,ITB,95,FrontDesk,True
+505,2025-11-15,11:31:00,S00066,Gym,Mills Library,47,FrontDesk,True
+506,2025-11-15,16:14:00,S03903,StudyRoom,Mills Library,89,MobileApp,False
+507,2025-11-15,12:32:00,S03893,ComputerLab,ITB,139,CardSwipe,True
+508,2025-11-15,20:02:00,S03040,Library,Thode Library,53,CardSwipe,True
+509,2025-11-15,14:35:00,S03371,Cafeteria,ITB,98,FrontDesk,False
+510,2025-11-15,18:26:00,S03283,Library,Mills Library,66,FrontDesk,True
+511,2025-11-15,21:35:00,S00885,Gym,JHE,71,FrontDesk,True
+512,2025-11-15,12:24:00,S01674,Cafeteria,PGCLL,86,CardSwipe,True
+513,2025-11-15,14:27:00,S02622,Cafeteria,PGCLL,69,FrontDesk,False
+514,2025-11-15,20:15:00,S01605,Cafeteria,JHE,19,FrontDesk,True
+515,2025-11-15,15:31:00,S00381,Gym,DBAC,111,FrontDesk,False
+516,2025-11-15,14:23:00,S00913,Library,Mills Library,102,FrontDesk,False
+517,2025-11-15,11:04:00,S04254,StudyRoom,Mills Library,71,CardSwipe,True
+518,2025-11-15,15:44:00,S04959,StudyRoom,Mills Library,104,CardSwipe,False
+519,2025-11-15,08:33:00,S03833,Cafeteria,Mills Library,130,MobileApp,False
+520,2025-11-15,14:10:00,S03389,Library,JHE,92,FrontDesk,False
+521,2025-11-15,18:01:00,S02574,Cafeteria,ITB,114,FrontDesk,True
+522,2025-11-15,11:06:00,S03679,Library,Thode Library,54,MobileApp,True
+523,2025-11-15,14:35:00,S00435,StudyRoom,ITB,120,FrontDesk,False
+524,2025-11-15,14:17:00,S03977,Library,Mills Library,71,MobileApp,False
+525,2025-11-15,20:13:00,S02430,Gym,Mills Library,89,MobileApp,True
+526,2025-11-15,18:41:00,S04774,Library,Thode Library,57,CardSwipe,True
+527,2025-11-15,19:59:00,S03178,StudyRoom,JHE,129,CardSwipe,True
+528,2025-11-15,19:57:00,S04364,Gym,Thode Library,88,CardSwipe,True
+529,2025-11-15,11:17:00,S02750,StudyRoom,ITB,136,CardSwipe,True
+530,2025-11-15,21:54:00,S04914,StudyRoom,PGCLL,104,MobileApp,True
+531,2025-11-15,11:02:00,S00666,Library,Mills Library,100,CardSwipe,True
+532,2025-11-15,10:10:00,S02603,ComputerLab,JHE,113,CardSwipe,False
+533,2025-11-15,08:30:00,S04208,Library,PGCLL,111,MobileApp,False
+534,2025-11-15,14:33:00,S01511,StudyRoom,Mills Library,63,MobileApp,False
+535,2025-11-15,11:44:00,S04962,Gym,DBAC,76,MobileApp,True
+536,2025-11-15,21:37:00,S00910,Gym,DBAC,72,MobileApp,True
+537,2025-11-15,10:12:00,S03699,StudyRoom,ITB,136,MobileApp,False
+538,2025-11-15,08:14:00,S00452,Library,DBAC,91,MobileApp,False
+539,2025-11-15,21:50:00,S03826,Cafeteria,PGCLL,15,FrontDesk,True
+540,2025-11-15,13:55:00,S02669,StudyRoom,DBAC,92,MobileApp,True
+541,2025-11-15,18:34:00,S03777,ComputerLab,Mills Library,114,CardSwipe,True
+542,2025-11-15,20:08:00,S00689,StudyRoom,PGCLL,46,FrontDesk,True
+543,2025-11-15,15:23:00,S04489,StudyRoom,PGCLL,79,CardSwipe,False
+544,2025-11-15,21:05:00,S02225,Library,JHE,74,MobileApp,True
+545,2025-11-15,19:15:00,S04392,ComputerLab,DBAC,146,MobileApp,True
+546,2025-11-15,13:44:00,S03380,StudyRoom,JHE,129,MobileApp,True
+547,2025-11-15,13:39:00,S01265,ComputerLab,PGCLL,76,CardSwipe,True
+548,2025-11-15,12:34:00,S03771,ComputerLab,PGCLL,125,FrontDesk,True
+549,2025-11-15,21:30:00,S00244,Library,Thode Library,70,FrontDesk,True
+550,2025-11-15,22:27:00,S03643,ComputerLab,JHE,38,CardSwipe,False
+551,2025-11-15,13:28:00,S00953,Library,JHE,40,CardSwipe,True
+552,2025-11-15,12:20:00,S04261,Gym,JHE,63,MobileApp,True
+553,2025-11-15,19:03:00,S02712,Library,ITB,116,MobileApp,True
+554,2025-11-15,21:29:00,S00341,Library,Mills Library,159,MobileApp,True
+555,2025-11-15,18:49:00,S00292,ComputerLab,PGCLL,91,CardSwipe,True
+556,2025-11-15,10:41:00,S02364,ComputerLab,JHE,63,MobileApp,False
+557,2025-11-15,14:31:00,S02956,Library,PGCLL,101,MobileApp,False
+558,2025-11-15,12:30:00,S02171,ComputerLab,PGCLL,100,FrontDesk,True
+559,2025-11-15,09:16:00,S03294,StudyRoom,PGCLL,102,CardSwipe,False
+560,2025-11-15,18:25:00,S00571,Library,Mills Library,101,FrontDesk,True
+561,2025-11-15,09:33:00,S00456,Library,ITB,70,CardSwipe,False
+562,2025-11-15,14:31:00,S02008,StudyRoom,JHE,78,CardSwipe,False
+563,2025-11-15,21:22:00,S00031,StudyRoom,Mills Library,101,CardSwipe,True
+564,2025-11-15,16:15:00,S00994,Gym,DBAC,52,MobileApp,False
+565,2025-11-15,20:00:00,S03970,StudyRoom,Thode Library,81,MobileApp,True
+566,2025-11-15,13:51:00,S01249,Gym,JHE,144,CardSwipe,True
+567,2025-11-15,11:33:00,S03760,Library,ITB,101,FrontDesk,True
+568,2025-11-15,19:32:00,S01570,Cafeteria,PGCLL,136,MobileApp,True
+569,2025-11-15,14:06:00,S00621,Library,Thode Library,46,MobileApp,False
+570,2025-11-15,19:59:00,S02058,Library,Mills Library,116,MobileApp,True
+571,2025-11-15,14:39:00,S00712,Cafeteria,ITB,84,CardSwipe,False
+572,2025-11-15,21:31:00,S01061,Cafeteria,JHE,53,FrontDesk,True
+573,2025-11-15,11:19:00,S02932,ComputerLab,ITB,78,FrontDesk,True
+574,2025-11-15,20:02:00,S04048,Gym,Mills Library,106,FrontDesk,True
+575,2025-11-15,19:07:00,S01087,StudyRoom,DBAC,113,MobileApp,True
+576,2025-11-15,19:43:00,S04213,StudyRoom,Mills Library,97,FrontDesk,True
+577,2025-11-15,12:02:00,S01199,StudyRoom,Thode Library,70,FrontDesk,True
+578,2025-11-15,14:30:00,S00275,Library,PGCLL,88,FrontDesk,False
+579,2025-11-15,21:48:00,S02619,Library,PGCLL,79,FrontDesk,True
+580,2025-11-15,12:02:00,S01497,Cafeteria,JHE,43,MobileApp,True
+581,2025-11-15,11:33:00,S03612,Gym,DBAC,89,FrontDesk,True
+582,2025-11-15,21:15:00,S02076,Library,Thode Library,63,MobileApp,True
+583,2025-11-15,11:04:00,S00313,Library,Mills Library,52,MobileApp,True
+584,2025-11-15,20:26:00,S01183,Library,Mills Library,146,MobileApp,True
+585,2025-11-15,16:50:00,S04842,Library,PGCLL,95,FrontDesk,False
+586,2025-11-15,19:10:00,S03154,Library,Mills Library,119,CardSwipe,True
+587,2025-11-15,11:20:00,S00318,Library,Thode Library,75,FrontDesk,True
+588,2025-11-15,18:53:00,S01591,Gym,DBAC,55,MobileApp,True
+589,2025-11-15,13:54:00,S02112,Library,Thode Library,115,FrontDesk,True
+590,2025-11-15,20:21:00,S00767,StudyRoom,DBAC,108,FrontDesk,True
+591,2025-11-15,13:53:00,S02672,Library,JHE,149,FrontDesk,True
+592,2025-11-15,21:59:00,S00500,StudyRoom,PGCLL,64,CardSwipe,True
+593,2025-11-15,18:07:00,S03917,ComputerLab,DBAC,93,CardSwipe,True
+594,2025-11-15,12:22:00,S00946,Cafeteria,Thode Library,79,CardSwipe,True
+595,2025-11-15,12:49:00,S01161,StudyRoom,PGCLL,97,MobileApp,True
+596,2025-11-15,18:39:00,S02143,Library,Mills Library,74,MobileApp,True
+597,2025-11-15,09:56:00,S00610,Gym,DBAC,67,MobileApp,False
+598,2025-11-15,16:17:00,S02372,ComputerLab,ITB,109,MobileApp,False
+599,2025-11-15,18:57:00,S03735,Gym,DBAC,137,MobileApp,True
+600,2025-11-15,11:57:00,S04285,Gym,ITB,79,MobileApp,True
+601,2025-11-15,11:39:00,S00486,StudyRoom,JHE,74,FrontDesk,True
+602,2025-11-15,17:56:00,S01976,Cafeteria,ITB,109,FrontDesk,False
+603,2025-11-15,21:51:00,S01089,Gym,JHE,86,FrontDesk,True
+604,2025-11-15,20:07:00,S03222,Gym,ITB,61,FrontDesk,True
+605,2025-11-15,21:37:00,S02375,Library,PGCLL,106,MobileApp,True
+606,2025-11-15,09:45:00,S00512,Library,Mills Library,140,MobileApp,False
+607,2025-11-15,12:42:00,S00697,Gym,ITB,82,FrontDesk,True
+608,2025-11-15,12:55:00,S02127,Library,PGCLL,76,MobileApp,True
+609,2025-11-15,13:39:00,S04496,StudyRoom,Thode Library,30,FrontDesk,True
+610,2025-11-15,13:02:00,S03488,StudyRoom,JHE,63,MobileApp,True
+611,2025-11-15,12:22:00,S01797,Gym,DBAC,32,FrontDesk,True
+612,2025-11-15,16:34:00,S04596,StudyRoom,PGCLL,46,FrontDesk,False
+613,2025-11-15,19:35:00,S04749,StudyRoom,JHE,74,MobileApp,True
+614,2025-11-15,18:49:00,S03560,StudyRoom,ITB,118,MobileApp,True
+615,2025-11-15,11:40:00,S04266,Cafeteria,PGCLL,138,FrontDesk,True
+616,2025-11-15,18:17:00,S03994,Cafeteria,DBAC,48,FrontDesk,True
+617,2025-11-15,12:34:00,S03336,Gym,JHE,51,FrontDesk,True
+618,2025-11-15,18:08:00,S03586,Library,Thode Library,91,MobileApp,True
+619,2025-11-15,21:17:00,S04629,StudyRoom,PGCLL,72,MobileApp,True
+620,2025-11-15,14:26:00,S01107,Gym,JHE,114,MobileApp,False
+621,2025-11-15,13:47:00,S00244,ComputerLab,ITB,82,MobileApp,True
+622,2025-11-15,22:33:00,S03628,Library,Thode Library,95,FrontDesk,False
+623,2025-11-15,09:25:00,S01970,Gym,PGCLL,87,MobileApp,False
+624,2025-11-15,20:49:00,S04298,Library,Thode Library,109,FrontDesk,True
+625,2025-11-15,21:47:00,S04554,Library,ITB,124,CardSwipe,True
+626,2025-11-15,21:00:00,S01202,StudyRoom,DBAC,97,MobileApp,True
+627,2025-11-15,19:38:00,S03486,Gym,DBAC,107,CardSwipe,True
+628,2025-11-15,12:05:00,S04548,StudyRoom,Mills Library,79,CardSwipe,True
+629,2025-11-15,09:56:00,S03532,StudyRoom,Mills Library,57,CardSwipe,False
+630,2025-11-15,12:57:00,S03787,Cafeteria,JHE,73,CardSwipe,True
+631,2025-11-15,20:23:00,S04124,Gym,DBAC,168,CardSwipe,True
+632,2025-11-15,13:38:00,S00637,Library,Mills Library,90,MobileApp,True
+633,2025-11-15,13:38:00,S02290,Library,Mills Library,32,FrontDesk,True
+634,2025-11-15,10:20:00,S04542,StudyRoom,DBAC,130,FrontDesk,False
+635,2025-11-15,12:48:00,S04149,ComputerLab,Mills Library,139,CardSwipe,True
+636,2025-11-15,18:15:00,S02873,StudyRoom,Mills Library,123,CardSwipe,True
+637,2025-11-15,12:48:00,S03132,ComputerLab,PGCLL,63,MobileApp,True
+638,2025-11-15,12:42:00,S00817,Gym,DBAC,72,MobileApp,True
+639,2025-11-15,10:56:00,S02799,Cafeteria,ITB,92,MobileApp,False
+640,2025-11-15,10:39:00,S04983,Library,PGCLL,55,FrontDesk,False
+641,2025-11-15,11:48:00,S01848,Cafeteria,DBAC,89,CardSwipe,True
+642,2025-11-15,09:25:00,S03040,Gym,DBAC,32,FrontDesk,False
+643,2025-11-15,12:38:00,S03659,StudyRoom,PGCLL,133,CardSwipe,True
+644,2025-11-15,13:42:00,S02897,Gym,DBAC,121,FrontDesk,True
+645,2025-11-15,17:35:00,S01956,Gym,JHE,70,MobileApp,False
+646,2025-11-15,21:07:00,S04395,ComputerLab,ITB,102,FrontDesk,True
+647,2025-11-15,19:58:00,S02920,Gym,DBAC,132,MobileApp,True
+648,2025-11-15,14:50:00,S00974,Cafeteria,JHE,78,CardSwipe,False
+649,2025-11-15,18:25:00,S04776,Library,Mills Library,137,FrontDesk,True
+650,2025-11-15,17:00:00,S04868,StudyRoom,Thode Library,80,MobileApp,False
+651,2025-11-15,18:33:00,S01455,Library,Mills Library,102,FrontDesk,True
+652,2025-11-15,18:38:00,S02776,ComputerLab,ITB,80,FrontDesk,True
+653,2025-11-15,13:13:00,S03446,ComputerLab,ITB,68,FrontDesk,True
+654,2025-11-15,19:32:00,S01548,Library,JHE,122,CardSwipe,True
+655,2025-11-15,13:03:00,S04462,Gym,DBAC,83,CardSwipe,True
+656,2025-11-15,14:40:00,S00130,Gym,DBAC,62,FrontDesk,False
+657,2025-11-15,18:14:00,S04501,StudyRoom,Mills Library,76,FrontDesk,True
+658,2025-11-15,18:24:00,S00607,Gym,DBAC,86,CardSwipe,True
+659,2025-11-15,20:56:00,S04102,ComputerLab,PGCLL,47,FrontDesk,True
+660,2025-11-15,14:27:00,S00135,Library,PGCLL,152,CardSwipe,False
+661,2025-11-15,18:56:00,S01552,Gym,DBAC,110,FrontDesk,True
+662,2025-11-15,12:51:00,S00498,Library,Thode Library,100,FrontDesk,True
+663,2025-11-15,20:38:00,S04828,Cafeteria,ITB,50,FrontDesk,True
+664,2025-11-15,18:40:00,S02382,StudyRoom,JHE,101,CardSwipe,True
+665,2025-11-15,11:59:00,S01650,StudyRoom,PGCLL,40,FrontDesk,True
+666,2025-11-15,18:00:00,S01731,StudyRoom,Mills Library,97,FrontDesk,True
+667,2025-11-15,19:13:00,S00307,StudyRoom,Thode Library,119,CardSwipe,True
+668,2025-11-15,18:46:00,S04717,Library,PGCLL,90,MobileApp,True
+669,2025-11-15,19:10:00,S00508,ComputerLab,JHE,71,MobileApp,True
+670,2025-11-15,18:12:00,S03985,Cafeteria,DBAC,109,CardSwipe,True
+671,2025-11-15,21:30:00,S03015,StudyRoom,DBAC,62,MobileApp,True
+672,2025-11-15,11:35:00,S03042,ComputerLab,PGCLL,137,FrontDesk,True
+673,2025-11-15,14:37:00,S04774,StudyRoom,PGCLL,193,CardSwipe,False
+674,2025-11-15,19:36:00,S04298,Library,ITB,74,CardSwipe,True
+675,2025-11-15,10:53:00,S00760,Gym,DBAC,115,MobileApp,False
+676,2025-11-15,13:59:00,S00916,ComputerLab,JHE,76,MobileApp,True
+677,2025-11-15,21:33:00,S03955,Gym,DBAC,46,MobileApp,True
+678,2025-11-15,21:31:00,S00306,Library,ITB,116,FrontDesk,True
+679,2025-11-15,13:04:00,S03810,StudyRoom,ITB,77,CardSwipe,True
+680,2025-11-15,11:48:00,S03647,Library,Thode Library,103,MobileApp,True
+681,2025-11-15,08:36:00,S04927,Library,Thode Library,71,CardSwipe,False
+682,2025-11-15,20:07:00,S04146,ComputerLab,Mills Library,123,MobileApp,True
+683,2025-11-15,12:13:00,S02342,StudyRoom,JHE,83,CardSwipe,True
+684,2025-11-15,18:07:00,S01692,Library,ITB,118,MobileApp,True
+685,2025-11-15,17:38:00,S04994,Cafeteria,Mills Library,91,MobileApp,False
+686,2025-11-15,13:10:00,S01313,StudyRoom,Mills Library,67,MobileApp,True
+687,2025-11-15,12:19:00,S02425,ComputerLab,JHE,85,FrontDesk,True
+688,2025-11-15,13:15:00,S00010,Cafeteria,Mills Library,65,FrontDesk,True
+689,2025-11-15,11:51:00,S00866,Cafeteria,DBAC,81,MobileApp,True
+690,2025-11-15,14:44:00,S02026,Library,ITB,100,FrontDesk,False
+691,2025-11-15,20:29:00,S00912,Library,JHE,63,CardSwipe,True
+692,2025-11-15,17:09:00,S01898,Library,Thode Library,55,FrontDesk,False
+693,2025-11-15,21:20:00,S00417,StudyRoom,Mills Library,80,CardSwipe,True
+694,2025-11-15,18:26:00,S01645,StudyRoom,PGCLL,95,MobileApp,True
+695,2025-11-15,14:41:00,S02218,Library,PGCLL,103,FrontDesk,False
+696,2025-11-15,13:16:00,S02230,Cafeteria,DBAC,87,FrontDesk,True
+697,2025-11-15,20:16:00,S02992,StudyRoom,PGCLL,78,FrontDesk,True
+698,2025-11-15,18:34:00,S02411,Gym,PGCLL,139,FrontDesk,True
+699,2025-11-15,11:50:00,S02103,StudyRoom,ITB,83,MobileApp,True
+700,2025-11-15,18:25:00,S00691,Library,Mills Library,105,FrontDesk,True
+701,2025-11-15,11:49:00,S00187,ComputerLab,PGCLL,61,CardSwipe,True
+702,2025-11-15,19:36:00,S03038,Gym,ITB,53,FrontDesk,True
+703,2025-11-15,09:08:00,S02410,Cafeteria,Mills Library,74,MobileApp,False
+704,2025-11-15,19:39:00,S02994,Library,JHE,78,MobileApp,True
+705,2025-11-15,15:44:00,S03505,StudyRoom,JHE,54,MobileApp,False
+706,2025-11-15,13:12:00,S02574,Gym,DBAC,63,MobileApp,True
+707,2025-11-15,19:21:00,S01058,ComputerLab,Mills Library,69,CardSwipe,True
+708,2025-11-15,10:07:00,S03849,Library,JHE,120,FrontDesk,False
+709,2025-11-15,12:21:00,S02799,StudyRoom,ITB,87,CardSwipe,True
+710,2025-11-15,21:30:00,S02079,Library,Thode Library,94,MobileApp,True
+711,2025-11-15,19:30:00,S00869,Cafeteria,Mills Library,56,FrontDesk,True
+712,2025-11-15,09:47:00,S01331,Cafeteria,Thode Library,79,FrontDesk,False
+713,2025-11-15,15:49:00,S00608,Library,Thode Library,91,CardSwipe,False
+714,2025-11-15,14:24:00,S00393,ComputerLab,Thode Library,95,MobileApp,False
+715,2025-11-15,11:33:00,S01173,Gym,JHE,80,CardSwipe,True
+716,2025-11-15,11:46:00,S03429,Library,Thode Library,63,FrontDesk,True
+717,2025-11-15,19:55:00,S04654,ComputerLab,Thode Library,120,MobileApp,True
+718,2025-11-15,19:07:00,S04341,ComputerLab,Mills Library,99,CardSwipe,True
+719,2025-11-15,18:48:00,S03406,Gym,PGCLL,100,FrontDesk,True
+720,2025-11-15,22:22:00,S00273,Cafeteria,ITB,121,FrontDesk,False
+721,2025-11-15,14:54:00,S01235,ComputerLab,JHE,62,FrontDesk,False
+722,2025-11-15,09:23:00,S03272,Library,Mills Library,80,FrontDesk,False
+723,2025-11-15,11:27:00,S02818,ComputerLab,JHE,77,MobileApp,True
+724,2025-11-15,14:46:00,S00151,StudyRoom,Thode Library,111,CardSwipe,False
+725,2025-11-15,21:14:00,S03050,Library,Mills Library,72,MobileApp,True
+726,2025-11-15,17:29:00,S01229,Library,Mills Library,130,CardSwipe,False
+727,2025-11-15,20:35:00,S04776,StudyRoom,Thode Library,125,FrontDesk,True
+728,2025-11-15,11:30:00,S00362,Library,JHE,152,FrontDesk,True
+729,2025-11-15,21:52:00,S01359,ComputerLab,PGCLL,64,MobileApp,True
+730,2025-11-15,12:01:00,S01940,Gym,DBAC,85,MobileApp,True
+731,2025-11-15,13:29:00,S02919,StudyRoom,Mills Library,99,MobileApp,True
+732,2025-11-15,15:45:00,S01444,Library,Thode Library,15,MobileApp,False
+733,2025-11-15,15:05:00,S02598,StudyRoom,Mills Library,26,FrontDesk,False
+734,2025-11-15,13:51:00,S02595,Library,ITB,132,MobileApp,True
+735,2025-11-15,21:15:00,S00944,Gym,PGCLL,101,FrontDesk,True
+736,2025-11-15,11:49:00,S02377,StudyRoom,Mills Library,51,CardSwipe,True
+737,2025-11-15,17:08:00,S02960,Cafeteria,PGCLL,41,FrontDesk,False
+738,2025-11-15,09:40:00,S01783,Library,Mills Library,63,MobileApp,False
+739,2025-11-15,22:59:00,S02156,StudyRoom,Mills Library,96,MobileApp,False
+740,2025-11-15,13:44:00,S02197,Gym,PGCLL,44,CardSwipe,True
+741,2025-11-15,18:25:00,S04342,Library,Mills Library,111,FrontDesk,True
+742,2025-11-15,12:53:00,S01631,ComputerLab,ITB,92,FrontDesk,True
+743,2025-11-15,09:32:00,S01571,Cafeteria,Mills Library,135,CardSwipe,False
+744,2025-11-15,18:24:00,S03935,Library,Thode Library,86,FrontDesk,True
+745,2025-11-15,11:59:00,S04063,Library,ITB,98,MobileApp,True
+746,2025-11-15,20:29:00,S01891,Library,Thode Library,65,CardSwipe,True
+747,2025-11-15,12:29:00,S01493,Library,Thode Library,128,CardSwipe,True
+748,2025-11-15,10:50:00,S03966,ComputerLab,JHE,77,FrontDesk,False
+749,2025-11-15,19:52:00,S00491,StudyRoom,Mills Library,133,CardSwipe,True
+750,2025-11-15,18:26:00,S01960,Library,Mills Library,82,CardSwipe,True
+751,2025-11-15,14:13:00,S04911,Cafeteria,JHE,82,MobileApp,False
+752,2025-11-15,12:48:00,S04929,Gym,ITB,63,FrontDesk,True
+753,2025-11-15,17:14:00,S03805,ComputerLab,JHE,64,MobileApp,False
+754,2025-11-15,20:21:00,S02637,Gym,DBAC,80,MobileApp,True
+755,2025-11-15,13:29:00,S01607,Gym,ITB,88,FrontDesk,True
+756,2025-11-15,22:24:00,S01949,StudyRoom,PGCLL,54,CardSwipe,False
+757,2025-11-15,19:25:00,S04120,ComputerLab,JHE,116,MobileApp,True
+758,2025-11-15,17:11:00,S04760,Library,PGCLL,55,FrontDesk,False
+759,2025-11-15,18:34:00,S01055,Library,Mills Library,103,MobileApp,True
+760,2025-11-15,14:09:00,S04188,Cafeteria,ITB,62,FrontDesk,False
+761,2025-11-15,14:25:00,S04432,Gym,ITB,82,FrontDesk,False
+762,2025-11-15,08:28:00,S01733,Gym,DBAC,109,FrontDesk,False
+763,2025-11-15,20:44:00,S04488,Gym,ITB,133,MobileApp,True
+764,2025-11-15,21:07:00,S01375,ComputerLab,Thode Library,86,FrontDesk,True
+765,2025-11-15,13:04:00,S04279,Library,ITB,50,MobileApp,True
+766,2025-11-15,18:31:00,S01662,Library,Mills Library,69,MobileApp,True
+767,2025-11-15,19:50:00,S01171,Gym,ITB,72,MobileApp,True
+768,2025-11-15,21:26:00,S00781,StudyRoom,JHE,80,FrontDesk,True
+769,2025-11-15,19:47:00,S02878,Cafeteria,ITB,132,FrontDesk,True
+770,2025-11-15,11:07:00,S03549,StudyRoom,ITB,116,FrontDesk,True
+771,2025-11-15,17:06:00,S00301,ComputerLab,Thode Library,93,FrontDesk,False
+772,2025-11-15,11:58:00,S04028,Library,JHE,104,FrontDesk,True
+773,2025-11-15,16:17:00,S01856,Library,Mills Library,61,MobileApp,False
+774,2025-11-15,11:56:00,S03081,Library,ITB,108,FrontDesk,True
+775,2025-11-15,14:32:00,S03323,Library,ITB,91,CardSwipe,False
+776,2025-11-15,19:27:00,S01618,ComputerLab,Mills Library,111,CardSwipe,True
+777,2025-11-15,15:59:00,S00517,Gym,PGCLL,69,CardSwipe,False
+778,2025-11-15,18:44:00,S03913,Library,Thode Library,78,FrontDesk,True
+779,2025-11-15,20:20:00,S00035,StudyRoom,Thode Library,63,FrontDesk,True
+780,2025-11-15,10:26:00,S01276,Library,Mills Library,36,CardSwipe,False
+781,2025-11-15,08:32:00,S00086,ComputerLab,PGCLL,98,MobileApp,False
+782,2025-11-15,12:02:00,S00538,Library,Thode Library,50,FrontDesk,True
+783,2025-11-15,19:48:00,S01372,ComputerLab,Mills Library,75,FrontDesk,True
+784,2025-11-15,18:51:00,S04708,Gym,DBAC,87,FrontDesk,True
+785,2025-11-15,18:39:00,S04533,ComputerLab,Thode Library,62,FrontDesk,True
+786,2025-11-15,14:00:00,S01143,Cafeteria,JHE,144,FrontDesk,False
+787,2025-11-15,20:02:00,S02032,Gym,PGCLL,70,FrontDesk,True
+788,2025-11-15,21:55:00,S02504,Cafeteria,Thode Library,113,CardSwipe,True
+789,2025-11-15,13:26:00,S00872,Gym,DBAC,130,CardSwipe,True
+790,2025-11-15,14:31:00,S02866,Gym,DBAC,101,MobileApp,False
+791,2025-11-15,21:00:00,S03646,StudyRoom,PGCLL,107,FrontDesk,True
+792,2025-11-15,20:48:00,S03368,StudyRoom,Thode Library,130,FrontDesk,True
+793,2025-11-15,18:56:00,S03778,Cafeteria,DBAC,107,MobileApp,True
+794,2025-11-15,21:02:00,S03621,Library,Mills Library,33,FrontDesk,True
+795,2025-11-15,18:50:00,S03680,StudyRoom,Thode Library,108,FrontDesk,True
+796,2025-11-15,13:52:00,S00770,Gym,PGCLL,99,FrontDesk,True
+797,2025-11-15,19:17:00,S02590,StudyRoom,Thode Library,82,FrontDesk,True
+798,2025-11-15,18:58:00,S02721,Gym,PGCLL,66,FrontDesk,True
+799,2025-11-15,12:20:00,S02055,Gym,DBAC,60,CardSwipe,True
+800,2025-11-15,13:01:00,S00200,StudyRoom,JHE,122,FrontDesk,True
+801,2025-11-15,18:10:00,S01485,Cafeteria,PGCLL,65,CardSwipe,True
+802,2025-11-15,21:08:00,S00863,Cafeteria,PGCLL,140,CardSwipe,True
+803,2025-11-15,10:38:00,S02522,ComputerLab,Thode Library,70,FrontDesk,False
+804,2025-11-15,16:06:00,S00688,Cafeteria,ITB,90,FrontDesk,False
+805,2025-11-15,10:07:00,S03401,Library,Mills Library,124,CardSwipe,False
+806,2025-11-15,20:29:00,S01549,ComputerLab,PGCLL,139,MobileApp,True
+807,2025-11-15,20:54:00,S01517,Gym,PGCLL,140,FrontDesk,True
+808,2025-11-15,14:07:00,S03389,Library,Mills Library,66,MobileApp,False
+809,2025-11-15,14:21:00,S01164,Library,PGCLL,116,MobileApp,False
+810,2025-11-15,18:23:00,S02326,ComputerLab,ITB,58,FrontDesk,True
+811,2025-11-15,11:09:00,S00696,StudyRoom,Mills Library,119,FrontDesk,True
+812,2025-11-15,12:29:00,S00265,Cafeteria,ITB,121,FrontDesk,True
+813,2025-11-15,19:29:00,S04013,Cafeteria,ITB,107,CardSwipe,True
+814,2025-11-15,14:09:00,S02675,Gym,DBAC,76,MobileApp,False
+815,2025-11-15,12:03:00,S02905,Library,Thode Library,86,MobileApp,True
+816,2025-11-15,14:24:00,S01208,Library,Thode Library,42,CardSwipe,False
+817,2025-11-15,20:50:00,S00464,Gym,ITB,62,FrontDesk,True
+818,2025-11-15,14:06:00,S02761,Cafeteria,ITB,72,MobileApp,False
+819,2025-11-15,13:06:00,S04675,Gym,ITB,54,CardSwipe,True
+820,2025-11-15,17:04:00,S04303,Cafeteria,ITB,85,FrontDesk,False
+821,2025-11-15,18:42:00,S00528,Cafeteria,Mills Library,64,FrontDesk,True
+822,2025-11-15,11:07:00,S03049,Library,Mills Library,111,CardSwipe,True
+823,2025-11-15,14:01:00,S00160,Gym,DBAC,66,CardSwipe,False
+824,2025-11-15,22:14:00,S00259,Gym,DBAC,80,FrontDesk,False
+825,2025-11-15,13:10:00,S04151,Gym,PGCLL,86,CardSwipe,True
+826,2025-11-15,20:45:00,S00275,Gym,ITB,92,CardSwipe,True
+827,2025-11-15,14:46:00,S02794,Gym,PGCLL,115,FrontDesk,False
+828,2025-11-15,12:35:00,S00941,Library,Thode Library,88,FrontDesk,True
+829,2025-11-15,13:47:00,S01396,ComputerLab,Mills Library,95,FrontDesk,True
+830,2025-11-15,12:04:00,S00026,ComputerLab,ITB,52,CardSwipe,True
+831,2025-11-15,13:00:00,S03786,Cafeteria,PGCLL,117,FrontDesk,True
+832,2025-11-15,19:36:00,S02488,Gym,DBAC,45,CardSwipe,True
+833,2025-11-15,13:46:00,S01653,ComputerLab,ITB,108,MobileApp,True
+834,2025-11-15,13:26:00,S04900,Library,Mills Library,40,MobileApp,True
+835,2025-11-15,14:53:00,S02063,ComputerLab,PGCLL,23,CardSwipe,False
+836,2025-11-15,13:50:00,S02585,StudyRoom,Thode Library,139,CardSwipe,True
+837,2025-11-15,10:03:00,S03809,Gym,DBAC,142,FrontDesk,False
+838,2025-11-15,17:40:00,S02036,ComputerLab,PGCLL,98,MobileApp,False
+839,2025-11-15,08:50:00,S03201,StudyRoom,Mills Library,109,FrontDesk,False
+840,2025-11-15,09:28:00,S00180,Gym,DBAC,99,CardSwipe,False
+841,2025-11-15,20:58:00,S03726,Gym,DBAC,15,MobileApp,True
+842,2025-11-15,20:50:00,S02969,Gym,DBAC,89,CardSwipe,True
+843,2025-11-15,21:32:00,S02501,Library,JHE,45,FrontDesk,True
+844,2025-11-15,21:11:00,S00931,StudyRoom,DBAC,87,MobileApp,True
+845,2025-11-15,12:42:00,S03481,Library,Mills Library,182,CardSwipe,True
+846,2025-11-15,09:52:00,S00841,StudyRoom,PGCLL,97,CardSwipe,False
+847,2025-11-15,14:31:00,S02776,Library,Thode Library,53,FrontDesk,False
+848,2025-11-15,08:29:00,S01463,Cafeteria,PGCLL,36,CardSwipe,False
+849,2025-11-15,21:01:00,S04816,Library,ITB,93,MobileApp,True
+850,2025-11-15,14:07:00,S01926,StudyRoom,PGCLL,49,FrontDesk,False
+851,2025-11-15,10:53:00,S02443,Gym,PGCLL,69,FrontDesk,False
+852,2025-11-15,12:13:00,S03075,Cafeteria,Mills Library,76,FrontDesk,True
+853,2025-11-15,19:11:00,S03904,Cafeteria,PGCLL,127,MobileApp,True
+854,2025-11-15,14:21:00,S01877,Library,Mills Library,84,MobileApp,False
+855,2025-11-15,13:00:00,S00049,StudyRoom,DBAC,94,CardSwipe,True
+856,2025-11-15,08:58:00,S01570,Cafeteria,ITB,57,CardSwipe,False
+857,2025-11-15,21:23:00,S03007,Library,Mills Library,127,MobileApp,True
+858,2025-11-15,14:02:00,S00009,ComputerLab,PGCLL,103,CardSwipe,False
+859,2025-11-15,08:14:00,S02772,Gym,DBAC,64,CardSwipe,False
+860,2025-11-15,13:41:00,S03838,ComputerLab,JHE,111,CardSwipe,True
+861,2025-11-15,13:29:00,S01517,StudyRoom,DBAC,100,CardSwipe,True
+862,2025-11-15,12:31:00,S04410,StudyRoom,PGCLL,60,MobileApp,True
+863,2025-11-15,19:42:00,S01478,Gym,PGCLL,102,CardSwipe,True
+864,2025-11-15,20:34:00,S01449,Library,Mills Library,37,MobileApp,True
+865,2025-11-15,14:57:00,S01813,StudyRoom,Mills Library,68,FrontDesk,False
+866,2025-11-15,13:44:00,S04650,StudyRoom,Mills Library,161,CardSwipe,True
+867,2025-11-15,12:03:00,S00410,Gym,DBAC,122,CardSwipe,True
+868,2025-11-15,20:56:00,S01983,Library,Thode Library,76,CardSwipe,True
+869,2025-11-15,11:52:00,S02011,Gym,DBAC,126,CardSwipe,True
+870,2025-11-15,22:49:00,S02875,Gym,JHE,84,CardSwipe,False
+871,2025-11-15,13:56:00,S03249,Library,Mills Library,49,MobileApp,True
+872,2025-11-15,19:18:00,S00842,StudyRoom,Mills Library,81,MobileApp,True
+873,2025-11-15,12:34:00,S00673,Gym,PGCLL,62,FrontDesk,True
+874,2025-11-15,13:34:00,S02860,Library,Thode Library,93,MobileApp,True
+875,2025-11-15,16:40:00,S00344,ComputerLab,JHE,109,FrontDesk,False
+876,2025-11-15,10:11:00,S02197,Library,DBAC,99,CardSwipe,False
+877,2025-11-15,10:40:00,S01017,Library,Thode Library,75,FrontDesk,False
+878,2025-11-15,08:43:00,S03792,Library,Thode Library,88,CardSwipe,False
+879,2025-11-15,19:49:00,S02724,Library,Thode Library,107,MobileApp,True
+880,2025-11-15,13:35:00,S01228,StudyRoom,ITB,121,MobileApp,True
+881,2025-11-15,12:28:00,S04361,StudyRoom,Mills Library,61,CardSwipe,True
+882,2025-11-15,18:32:00,S01806,ComputerLab,JHE,81,CardSwipe,True
+883,2025-11-15,13:16:00,S02473,Gym,DBAC,57,CardSwipe,True
+884,2025-11-15,11:47:00,S04145,ComputerLab,PGCLL,97,FrontDesk,True
+885,2025-11-15,13:35:00,S00763,StudyRoom,JHE,72,MobileApp,True
+886,2025-11-15,19:27:00,S02033,ComputerLab,ITB,118,CardSwipe,True
+887,2025-11-15,18:28:00,S00147,StudyRoom,ITB,47,CardSwipe,True
+888,2025-11-15,09:14:00,S01970,ComputerLab,ITB,64,FrontDesk,False
+889,2025-11-15,11:47:00,S02829,Library,JHE,75,CardSwipe,True
+890,2025-11-15,21:05:00,S01697,Library,PGCLL,111,FrontDesk,True
+891,2025-11-15,14:41:00,S01928,Cafeteria,Mills Library,90,FrontDesk,False
+892,2025-11-15,22:43:00,S03568,StudyRoom,DBAC,75,CardSwipe,False
+893,2025-11-15,13:41:00,S00543,Gym,PGCLL,48,FrontDesk,True
+894,2025-11-15,12:20:00,S00937,ComputerLab,DBAC,89,FrontDesk,True
+895,2025-11-15,21:52:00,S02373,Library,Thode Library,15,CardSwipe,True
+896,2025-11-15,14:02:00,S03464,StudyRoom,Mills Library,104,FrontDesk,False
+897,2025-11-15,17:28:00,S00757,Library,Thode Library,80,CardSwipe,False
+898,2025-11-15,22:45:00,S04995,Library,Thode Library,20,CardSwipe,False
+899,2025-11-15,09:06:00,S03090,Library,Mills Library,56,CardSwipe,False
+900,2025-11-15,09:29:00,S03833,StudyRoom,PGCLL,107,MobileApp,False
+901,2025-11-15,13:37:00,S02586,Library,JHE,66,MobileApp,True
+902,2025-11-15,11:58:00,S01606,Library,Thode Library,134,MobileApp,True
+903,2025-11-15,21:42:00,S00288,Library,Mills Library,119,CardSwipe,True
+904,2025-11-15,22:14:00,S02869,Cafeteria,JHE,105,FrontDesk,False
+905,2025-11-15,12:11:00,S03464,Gym,DBAC,31,MobileApp,True
+906,2025-11-15,14:27:00,S00759,ComputerLab,JHE,50,CardSwipe,False
+907,2025-11-15,13:17:00,S04225,Cafeteria,Thode Library,68,MobileApp,True
+908,2025-11-15,12:20:00,S04054,Gym,DBAC,157,FrontDesk,True
+909,2025-11-15,19:49:00,S04895,Library,Mills Library,120,FrontDesk,True
+910,2025-11-15,11:59:00,S00030,Library,Thode Library,88,MobileApp,True
+911,2025-11-15,20:11:00,S00222,Cafeteria,JHE,77,MobileApp,True
+912,2025-11-15,13:58:00,S03150,Gym,ITB,85,MobileApp,True
+913,2025-11-15,16:42:00,S02599,Gym,DBAC,52,CardSwipe,False
+914,2025-11-15,20:26:00,S03544,Library,Thode Library,105,FrontDesk,True
+915,2025-11-15,18:35:00,S01389,ComputerLab,DBAC,118,MobileApp,True
+916,2025-11-15,14:50:00,S02274,Gym,JHE,135,FrontDesk,False
+917,2025-11-15,17:18:00,S03197,Library,Mills Library,110,CardSwipe,False
+918,2025-11-15,18:47:00,S03219,StudyRoom,DBAC,122,CardSwipe,True
+919,2025-11-15,21:43:00,S04963,Gym,ITB,110,MobileApp,True
+920,2025-11-15,22:36:00,S04571,Gym,DBAC,80,FrontDesk,False
+921,2025-11-15,10:23:00,S02793,Gym,Mills Library,149,CardSwipe,False
+922,2025-11-15,11:03:00,S02127,Library,Thode Library,46,CardSwipe,True
+923,2025-11-15,21:59:00,S03675,Library,ITB,92,MobileApp,True
+924,2025-11-15,13:06:00,S01459,Gym,DBAC,63,MobileApp,True
+925,2025-11-15,11:06:00,S02874,StudyRoom,JHE,106,CardSwipe,True
+926,2025-11-15,21:39:00,S03496,Library,Thode Library,28,CardSwipe,True
+927,2025-11-15,13:50:00,S04754,ComputerLab,JHE,128,CardSwipe,True
+928,2025-11-15,08:38:00,S02334,ComputerLab,DBAC,111,CardSwipe,False
+929,2025-11-15,13:10:00,S04287,StudyRoom,PGCLL,51,MobileApp,True
+930,2025-11-15,11:42:00,S01692,Gym,JHE,124,CardSwipe,True
+931,2025-11-15,14:43:00,S02002,Cafeteria,DBAC,29,FrontDesk,False
+932,2025-11-15,21:31:00,S01699,Library,Mills Library,97,MobileApp,True
+933,2025-11-15,20:02:00,S04327,Library,Mills Library,106,FrontDesk,True
+934,2025-11-15,16:10:00,S03501,Cafeteria,PGCLL,79,CardSwipe,False
+935,2025-11-15,20:50:00,S03693,Library,PGCLL,32,MobileApp,True
+936,2025-11-15,18:58:00,S02807,StudyRoom,Mills Library,65,CardSwipe,True
+937,2025-11-15,18:06:00,S01016,Gym,PGCLL,97,FrontDesk,True
+938,2025-11-15,08:22:00,S02166,ComputerLab,JHE,107,FrontDesk,False
+939,2025-11-15,09:04:00,S01977,ComputerLab,Thode Library,74,FrontDesk,False
+940,2025-11-15,21:14:00,S03691,ComputerLab,ITB,100,MobileApp,True
+941,2025-11-15,12:10:00,S00231,Gym,DBAC,34,MobileApp,True
+942,2025-11-15,15:53:00,S01152,Library,Mills Library,88,MobileApp,False
+943,2025-11-15,11:45:00,S04897,Cafeteria,DBAC,109,MobileApp,True
+944,2025-11-15,14:54:00,S04899,Library,Thode Library,91,CardSwipe,False
+945,2025-11-15,13:55:00,S02213,Gym,ITB,48,CardSwipe,True
+946,2025-11-15,12:51:00,S04284,Gym,DBAC,96,MobileApp,True
+947,2025-11-15,21:52:00,S01447,Gym,ITB,118,MobileApp,True
+948,2025-11-15,12:45:00,S01864,StudyRoom,JHE,66,CardSwipe,True
+949,2025-11-15,17:47:00,S03064,ComputerLab,ITB,49,FrontDesk,False
+950,2025-11-15,21:02:00,S00749,StudyRoom,DBAC,87,MobileApp,True
+951,2025-11-15,12:14:00,S02304,Library,ITB,84,CardSwipe,True
+952,2025-11-15,21:27:00,S04173,StudyRoom,JHE,102,FrontDesk,True
+953,2025-11-15,14:11:00,S01904,Library,Thode Library,62,CardSwipe,False
+954,2025-11-15,19:28:00,S01936,StudyRoom,PGCLL,69,FrontDesk,True
+955,2025-11-15,12:28:00,S03628,Library,PGCLL,88,MobileApp,True
+956,2025-11-15,14:39:00,S03478,Gym,PGCLL,95,FrontDesk,False
+957,2025-11-15,13:38:00,S01647,StudyRoom,JHE,94,CardSwipe,True
+958,2025-11-15,13:02:00,S03565,Library,Thode Library,93,CardSwipe,True
+959,2025-11-15,20:27:00,S02712,Gym,DBAC,97,MobileApp,True
+960,2025-11-15,14:27:00,S01151,StudyRoom,ITB,69,MobileApp,False
+961,2025-11-15,11:48:00,S00196,ComputerLab,Thode Library,108,CardSwipe,True
+962,2025-11-15,12:35:00,S03760,Gym,PGCLL,85,MobileApp,True
+963,2025-11-15,10:27:00,S00251,Library,ITB,72,FrontDesk,False
+964,2025-11-15,10:06:00,S00702,Gym,ITB,113,FrontDesk,False
+965,2025-11-15,14:29:00,S01780,Gym,Mills Library,73,FrontDesk,False
+966,2025-11-15,22:02:00,S02972,Gym,ITB,94,MobileApp,False
+967,2025-11-15,12:51:00,S02091,ComputerLab,ITB,134,MobileApp,True
+968,2025-11-15,18:06:00,S04210,Library,Thode Library,126,CardSwipe,True
+969,2025-11-15,09:37:00,S00040,Cafeteria,ITB,73,CardSwipe,False
+970,2025-11-15,11:33:00,S04510,Library,ITB,85,CardSwipe,True
+971,2025-11-15,14:21:00,S00859,Gym,DBAC,71,MobileApp,False
+972,2025-11-15,13:18:00,S04733,Cafeteria,Thode Library,84,FrontDesk,True
+973,2025-11-15,14:09:00,S03038,Cafeteria,JHE,93,CardSwipe,False
+974,2025-11-15,14:56:00,S04849,ComputerLab,ITB,82,MobileApp,False
+975,2025-11-15,11:52:00,S04942,Gym,PGCLL,128,MobileApp,True
+976,2025-11-15,20:51:00,S02982,Gym,DBAC,131,FrontDesk,True
+977,2025-11-15,14:14:00,S01658,StudyRoom,ITB,91,MobileApp,False
+978,2025-11-15,14:32:00,S04593,Library,Mills Library,71,CardSwipe,False
+979,2025-11-15,20:55:00,S00574,ComputerLab,PGCLL,67,CardSwipe,True
+980,2025-11-15,19:16:00,S03361,Library,Thode Library,58,MobileApp,True
+981,2025-11-15,08:43:00,S02013,StudyRoom,JHE,121,MobileApp,False
+982,2025-11-15,12:18:00,S02785,Library,Thode Library,77,MobileApp,True
+983,2025-11-15,21:30:00,S04182,ComputerLab,PGCLL,119,MobileApp,True
+984,2025-11-15,13:14:00,S04837,Library,Thode Library,82,FrontDesk,True
+985,2025-11-15,18:06:00,S01822,Gym,DBAC,85,FrontDesk,True
+986,2025-11-15,09:57:00,S02546,Cafeteria,PGCLL,80,MobileApp,False
+987,2025-11-15,08:11:00,S04817,Library,Mills Library,117,CardSwipe,False
+988,2025-11-15,18:39:00,S00270,Cafeteria,Mills Library,148,CardSwipe,True
+989,2025-11-15,15:08:00,S04106,Library,Mills Library,90,CardSwipe,False
+990,2025-11-15,22:10:00,S03818,ComputerLab,ITB,60,MobileApp,False
+991,2025-11-15,09:39:00,S04629,Library,Thode Library,121,MobileApp,False
+992,2025-11-15,21:29:00,S00937,Gym,ITB,75,CardSwipe,True
+993,2025-11-15,18:19:00,S00898,Library,ITB,100,FrontDesk,True
+994,2025-11-15,08:24:00,S01667,Library,Mills Library,67,FrontDesk,False
+995,2025-11-15,21:01:00,S02228,Cafeteria,Thode Library,93,CardSwipe,True
+996,2025-11-15,20:57:00,S03615,Gym,PGCLL,118,CardSwipe,True
+997,2025-11-15,13:25:00,S04076,StudyRoom,JHE,83,CardSwipe,True
+998,2025-11-15,18:24:00,S04905,ComputerLab,ITB,106,MobileApp,True
+999,2025-11-15,19:19:00,S03486,Gym,JHE,44,MobileApp,True
+1000,2025-11-15,20:21:00,S04562,StudyRoom,Mills Library,41,CardSwipe,True
+1001,2025-11-15,16:35:00,S01153,Gym,DBAC,30,MobileApp,False
+1002,2025-11-15,18:54:00,S03734,StudyRoom,ITB,117,CardSwipe,True
+1003,2025-11-15,14:38:00,S01824,Cafeteria,JHE,125,FrontDesk,False
+1004,2025-11-15,08:28:00,S03375,Gym,DBAC,76,MobileApp,False
+1005,2025-11-15,11:07:00,S02349,Gym,JHE,52,CardSwipe,True
+1006,2025-11-15,18:20:00,S04478,Library,PGCLL,62,CardSwipe,True
+1007,2025-11-15,19:24:00,S04827,StudyRoom,PGCLL,83,FrontDesk,True
+1008,2025-11-15,18:05:00,S02563,Library,Mills Library,83,MobileApp,True
+1009,2025-11-15,17:01:00,S00157,ComputerLab,Thode Library,162,MobileApp,False
+1010,2025-11-15,13:08:00,S01534,StudyRoom,DBAC,68,MobileApp,True
+1011,2025-11-15,21:53:00,S00647,Gym,DBAC,46,CardSwipe,True
+1012,2025-11-15,14:00:00,S00658,Library,Mills Library,84,CardSwipe,False
+1013,2025-11-15,13:23:00,S00490,StudyRoom,JHE,21,FrontDesk,True
+1014,2025-11-15,20:43:00,S02619,Gym,DBAC,72,MobileApp,True
+1015,2025-11-15,18:43:00,S02871,StudyRoom,DBAC,134,CardSwipe,True
+1016,2025-11-15,13:16:00,S02010,Gym,DBAC,81,MobileApp,True
+1017,2025-11-15,12:57:00,S00222,Library,Mills Library,93,FrontDesk,True
+1018,2025-11-15,19:53:00,S03931,Library,JHE,86,MobileApp,True
+1019,2025-11-15,14:33:00,S02398,Library,JHE,116,FrontDesk,False
+1020,2025-11-15,20:29:00,S01714,StudyRoom,JHE,117,FrontDesk,True
+1021,2025-11-15,08:44:00,S01423,Library,ITB,79,MobileApp,False
+1022,2025-11-15,09:09:00,S00489,ComputerLab,ITB,113,CardSwipe,False
+1023,2025-11-15,14:29:00,S04419,ComputerLab,Thode Library,95,CardSwipe,False
+1024,2025-11-15,16:03:00,S03099,Gym,PGCLL,76,MobileApp,False
+1025,2025-11-15,19:35:00,S03409,Cafeteria,PGCLL,64,MobileApp,True
+1026,2025-11-15,21:33:00,S02875,Gym,DBAC,63,MobileApp,True
+1027,2025-11-15,19:50:00,S00599,Library,Thode Library,142,MobileApp,True
+1028,2025-11-15,12:41:00,S00508,Gym,Mills Library,123,CardSwipe,True
+1029,2025-11-15,18:07:00,S04114,StudyRoom,DBAC,94,CardSwipe,True
+1030,2025-11-15,12:18:00,S02884,Gym,ITB,119,FrontDesk,True
+1031,2025-11-15,14:54:00,S00712,StudyRoom,DBAC,142,CardSwipe,False
+1032,2025-11-15,22:56:00,S01480,StudyRoom,DBAC,81,CardSwipe,False
+1033,2025-11-15,13:07:00,S04982,Library,JHE,53,FrontDesk,True
+1034,2025-11-15,09:26:00,S00671,Library,Thode Library,83,CardSwipe,False
+1035,2025-11-15,15:40:00,S00981,ComputerLab,PGCLL,84,FrontDesk,False
+1036,2025-11-15,18:21:00,S02723,Library,JHE,65,FrontDesk,True
+1037,2025-11-15,10:20:00,S00329,StudyRoom,JHE,90,FrontDesk,False
+1038,2025-11-15,19:59:00,S04166,ComputerLab,ITB,100,CardSwipe,True
+1039,2025-11-15,13:20:00,S04005,ComputerLab,ITB,85,FrontDesk,True
+1040,2025-11-15,08:18:00,S03084,StudyRoom,Thode Library,85,FrontDesk,False
+1041,2025-11-15,08:28:00,S03145,Library,DBAC,123,FrontDesk,False
+1042,2025-11-15,19:51:00,S02530,Library,ITB,100,FrontDesk,True
+1043,2025-11-15,20:34:00,S00564,Library,Thode Library,109,CardSwipe,True
+1044,2025-11-15,22:34:00,S02118,Library,JHE,100,FrontDesk,False
+1045,2025-11-15,13:35:00,S04513,StudyRoom,PGCLL,83,CardSwipe,True
+1046,2025-11-15,18:33:00,S04653,Library,Mills Library,55,MobileApp,True
+1047,2025-11-15,14:14:00,S03375,Gym,ITB,119,MobileApp,False
+1048,2025-11-15,15:51:00,S02408,Library,Thode Library,66,MobileApp,False
+1049,2025-11-15,18:35:00,S01926,Cafeteria,JHE,59,FrontDesk,True
+1050,2025-11-15,20:34:00,S00050,Library,Thode Library,105,FrontDesk,True
+1051,2025-11-15,18:02:00,S01368,Gym,DBAC,53,MobileApp,True
+1052,2025-11-15,19:35:00,S04931,Library,Mills Library,84,FrontDesk,True
+1053,2025-11-15,20:57:00,S04423,Gym,JHE,94,MobileApp,True
+1054,2025-11-15,20:46:00,S02772,Cafeteria,PGCLL,110,FrontDesk,True
+1055,2025-11-15,12:10:00,S01033,Cafeteria,DBAC,117,MobileApp,True
+1056,2025-11-15,16:12:00,S04480,Library,Thode Library,100,FrontDesk,False
+1057,2025-11-15,08:13:00,S03869,StudyRoom,ITB,99,FrontDesk,False
+1058,2025-11-15,19:21:00,S02551,Library,JHE,84,FrontDesk,True
+1059,2025-11-15,13:19:00,S02962,ComputerLab,JHE,87,CardSwipe,True
+1060,2025-11-15,19:11:00,S03687,Gym,ITB,127,FrontDesk,True
+1061,2025-11-15,21:52:00,S04905,Library,Thode Library,149,CardSwipe,True
+1062,2025-11-15,17:06:00,S00681,StudyRoom,JHE,114,FrontDesk,False
+1063,2025-11-15,19:53:00,S04073,StudyRoom,Mills Library,84,CardSwipe,True
+1064,2025-11-15,13:52:00,S01493,ComputerLab,Mills Library,154,CardSwipe,True
+1065,2025-11-15,12:38:00,S03686,ComputerLab,PGCLL,112,MobileApp,True
+1066,2025-11-15,13:09:00,S03413,Library,Thode Library,26,FrontDesk,True
+1067,2025-11-15,21:03:00,S04398,StudyRoom,Thode Library,88,FrontDesk,True
+1068,2025-11-15,20:16:00,S03390,Library,Thode Library,31,MobileApp,True
+1069,2025-11-15,13:45:00,S01850,Library,PGCLL,71,MobileApp,True
+1070,2025-11-15,18:41:00,S04249,Library,Thode Library,107,MobileApp,True
+1071,2025-11-15,13:07:00,S01896,StudyRoom,Mills Library,60,FrontDesk,True
+1072,2025-11-15,11:55:00,S00580,Gym,PGCLL,94,CardSwipe,True
+1073,2025-11-15,22:46:00,S03927,ComputerLab,JHE,69,FrontDesk,False
+1074,2025-11-15,19:43:00,S02291,StudyRoom,PGCLL,85,FrontDesk,True
+1075,2025-11-15,12:40:00,S03874,Gym,ITB,65,CardSwipe,True
+1076,2025-11-15,13:20:00,S04859,StudyRoom,PGCLL,102,MobileApp,True
+1077,2025-11-15,18:18:00,S01791,StudyRoom,JHE,73,CardSwipe,True
+1078,2025-11-15,21:21:00,S04163,Library,DBAC,43,FrontDesk,True
+1079,2025-11-15,13:04:00,S04799,Gym,PGCLL,84,FrontDesk,True
+1080,2025-11-15,14:05:00,S01890,Gym,ITB,104,FrontDesk,False
+1081,2025-11-15,13:38:00,S00534,Library,Thode Library,40,CardSwipe,True
+1082,2025-11-15,11:12:00,S02695,Library,Thode Library,63,CardSwipe,True
+1083,2025-11-15,21:03:00,S03587,StudyRoom,PGCLL,134,CardSwipe,True
+1084,2025-11-15,12:44:00,S00019,Cafeteria,ITB,65,MobileApp,True
+1085,2025-11-15,12:14:00,S04695,Cafeteria,PGCLL,114,FrontDesk,True
+1086,2025-11-15,19:31:00,S03436,Gym,DBAC,134,CardSwipe,True
+1087,2025-11-15,20:51:00,S00442,Library,Mills Library,98,CardSwipe,True
+1088,2025-11-15,20:03:00,S01686,Gym,DBAC,59,MobileApp,True
+1089,2025-11-15,21:54:00,S01780,Library,Thode Library,86,MobileApp,True
+1090,2025-11-15,14:09:00,S04952,Gym,PGCLL,44,MobileApp,False
+1091,2025-11-15,14:37:00,S03905,Gym,JHE,15,MobileApp,False
+1092,2025-11-15,11:19:00,S00760,Cafeteria,PGCLL,76,MobileApp,True
+1093,2025-11-15,13:04:00,S00127,Library,Mills Library,152,MobileApp,True
+1094,2025-11-15,21:55:00,S03309,StudyRoom,ITB,99,FrontDesk,True
+1095,2025-11-15,13:02:00,S03058,StudyRoom,JHE,90,FrontDesk,True
+1096,2025-11-15,22:36:00,S04215,StudyRoom,Thode Library,126,FrontDesk,False
+1097,2025-11-15,12:30:00,S01725,StudyRoom,ITB,112,FrontDesk,True
+1098,2025-11-15,12:04:00,S04132,StudyRoom,Thode Library,151,MobileApp,True
+1099,2025-11-15,08:39:00,S02042,Gym,JHE,113,MobileApp,False
+1100,2025-11-15,11:39:00,S04508,Library,Thode Library,98,FrontDesk,True
+1101,2025-11-15,19:18:00,S01154,Cafeteria,ITB,106,MobileApp,True
+1102,2025-11-15,11:33:00,S02448,Library,Mills Library,15,MobileApp,True
+1103,2025-11-15,13:16:00,S03317,Cafeteria,JHE,80,MobileApp,True
+1104,2025-11-15,20:10:00,S00511,Cafeteria,ITB,54,FrontDesk,True
+1105,2025-11-15,18:05:00,S02281,Library,PGCLL,94,CardSwipe,True
+1106,2025-11-15,15:15:00,S01133,Gym,DBAC,59,MobileApp,False
+1107,2025-11-15,18:03:00,S03550,Gym,ITB,67,MobileApp,True
+1108,2025-11-15,18:42:00,S01120,StudyRoom,Thode Library,70,FrontDesk,True
+1109,2025-11-15,20:35:00,S02599,Cafeteria,Mills Library,106,FrontDesk,True
+1110,2025-11-15,10:41:00,S03974,Library,Mills Library,106,MobileApp,False
+1111,2025-11-15,13:34:00,S00789,StudyRoom,DBAC,68,MobileApp,True
+1112,2025-11-15,11:49:00,S00310,StudyRoom,PGCLL,106,FrontDesk,True
+1113,2025-11-15,10:13:00,S01658,Cafeteria,PGCLL,57,CardSwipe,False
+1114,2025-11-15,14:17:00,S00916,Cafeteria,DBAC,112,MobileApp,False
+1115,2025-11-15,17:44:00,S01248,Gym,DBAC,108,FrontDesk,False
+1116,2025-11-15,21:28:00,S01396,Gym,DBAC,42,CardSwipe,True
+1117,2025-11-15,17:58:00,S03179,Cafeteria,JHE,50,MobileApp,False
+1118,2025-11-15,10:09:00,S00546,Gym,DBAC,67,FrontDesk,False
+1119,2025-11-15,10:55:00,S03447,Library,ITB,73,MobileApp,False
+1120,2025-11-15,20:05:00,S03204,Cafeteria,JHE,84,CardSwipe,True
+1121,2025-11-15,14:05:00,S02647,Gym,DBAC,99,MobileApp,False
+1122,2025-11-15,20:38:00,S00156,Library,Thode Library,106,FrontDesk,True
+1123,2025-11-15,12:56:00,S00637,Cafeteria,PGCLL,61,MobileApp,True
+1124,2025-11-15,19:21:00,S03359,Library,Thode Library,103,MobileApp,True
+1125,2025-11-15,21:59:00,S02421,StudyRoom,PGCLL,97,CardSwipe,True
+1126,2025-11-15,15:53:00,S00830,ComputerLab,PGCLL,102,CardSwipe,False
+1127,2025-11-15,14:06:00,S03543,Gym,PGCLL,88,FrontDesk,False
+1128,2025-11-15,18:05:00,S03928,Library,PGCLL,67,CardSwipe,True
+1129,2025-11-15,18:13:00,S03451,Cafeteria,DBAC,72,CardSwipe,True
+1130,2025-11-15,19:59:00,S00383,Cafeteria,JHE,86,FrontDesk,True
+1131,2025-11-15,12:36:00,S04941,Library,Thode Library,30,CardSwipe,True
+1132,2025-11-15,12:33:00,S04195,ComputerLab,JHE,159,CardSwipe,True
+1133,2025-11-15,21:33:00,S01686,ComputerLab,PGCLL,92,MobileApp,True
+1134,2025-11-15,22:56:00,S01317,Gym,DBAC,74,MobileApp,False
+1135,2025-11-15,11:31:00,S04644,ComputerLab,ITB,118,CardSwipe,True
+1136,2025-11-15,18:49:00,S01491,Library,Mills Library,116,MobileApp,True
+1137,2025-11-15,12:36:00,S02710,Library,Thode Library,15,MobileApp,True
+1138,2025-11-15,12:44:00,S03759,Cafeteria,Thode Library,63,MobileApp,True
+1139,2025-11-15,20:11:00,S04105,StudyRoom,JHE,58,MobileApp,True
+1140,2025-11-15,20:01:00,S04225,Cafeteria,ITB,69,FrontDesk,True
+1141,2025-11-15,14:14:00,S01093,ComputerLab,Thode Library,118,MobileApp,False
+1142,2025-11-15,19:52:00,S03649,Cafeteria,ITB,121,MobileApp,True
+1143,2025-11-15,19:22:00,S00504,StudyRoom,Mills Library,62,CardSwipe,True
+1144,2025-11-15,18:58:00,S04747,Cafeteria,JHE,124,MobileApp,True
+1145,2025-11-15,12:22:00,S03448,Gym,ITB,58,FrontDesk,True
+1146,2025-11-15,13:25:00,S03456,StudyRoom,JHE,106,FrontDesk,True
+1147,2025-11-15,12:07:00,S01427,Cafeteria,PGCLL,89,MobileApp,True
+1148,2025-11-15,19:54:00,S02598,Library,Thode Library,55,CardSwipe,True
+1149,2025-11-15,19:27:00,S03607,Gym,JHE,62,MobileApp,True
+1150,2025-11-15,11:09:00,S03594,Cafeteria,DBAC,140,MobileApp,True
+1151,2025-11-15,12:17:00,S04289,ComputerLab,JHE,108,CardSwipe,True
+1152,2025-11-15,11:26:00,S04906,Library,Thode Library,99,FrontDesk,True
+1153,2025-11-15,18:29:00,S04844,Gym,ITB,58,FrontDesk,True
+1154,2025-11-15,21:42:00,S02256,ComputerLab,DBAC,75,MobileApp,True
+1155,2025-11-15,19:25:00,S01358,Cafeteria,Thode Library,82,CardSwipe,True
+1156,2025-11-15,13:30:00,S03411,Library,ITB,45,MobileApp,True
+1157,2025-11-15,20:41:00,S02166,Cafeteria,PGCLL,82,FrontDesk,True
+1158,2025-11-15,21:25:00,S03446,Gym,JHE,71,FrontDesk,True
+1159,2025-11-15,17:08:00,S02521,Cafeteria,DBAC,41,CardSwipe,False
+1160,2025-11-15,21:50:00,S04021,Cafeteria,ITB,66,CardSwipe,True
+1161,2025-11-15,19:47:00,S01836,Library,PGCLL,121,FrontDesk,True
+1162,2025-11-15,11:28:00,S01662,StudyRoom,DBAC,100,MobileApp,True
+1163,2025-11-15,11:28:00,S01928,Library,Thode Library,111,FrontDesk,True
+1164,2025-11-15,21:57:00,S03187,Library,Mills Library,110,CardSwipe,True
+1165,2025-11-15,21:13:00,S02298,Cafeteria,DBAC,81,MobileApp,True
+1166,2025-11-15,20:59:00,S01871,ComputerLab,PGCLL,93,MobileApp,True
+1167,2025-11-15,20:35:00,S02019,Cafeteria,DBAC,115,CardSwipe,True
+1168,2025-11-15,10:23:00,S02553,ComputerLab,Mills Library,57,FrontDesk,False
+1169,2025-11-15,12:20:00,S01561,StudyRoom,Mills Library,83,CardSwipe,True
+1170,2025-11-15,13:37:00,S00257,Cafeteria,DBAC,40,MobileApp,True
+1171,2025-11-15,12:25:00,S00428,ComputerLab,ITB,94,MobileApp,True
+1172,2025-11-15,13:13:00,S03008,Cafeteria,PGCLL,75,MobileApp,True
+1173,2025-11-15,11:31:00,S03866,Cafeteria,ITB,81,MobileApp,True
+1174,2025-11-15,14:38:00,S04979,StudyRoom,ITB,109,CardSwipe,False
+1175,2025-11-15,20:28:00,S01635,Cafeteria,DBAC,140,FrontDesk,True
+1176,2025-11-15,10:39:00,S02824,Cafeteria,DBAC,120,CardSwipe,False
+1177,2025-11-15,17:53:00,S03639,Cafeteria,DBAC,64,CardSwipe,False
+1178,2025-11-15,14:03:00,S02960,Cafeteria,JHE,105,CardSwipe,False
+1179,2025-11-15,21:12:00,S03045,Gym,Mills Library,37,CardSwipe,True
+1180,2025-11-15,20:26:00,S04030,Gym,DBAC,110,FrontDesk,True
+1181,2025-11-15,10:36:00,S02496,Cafeteria,ITB,85,CardSwipe,False
+1182,2025-11-15,17:43:00,S00288,Cafeteria,DBAC,88,MobileApp,False
+1183,2025-11-15,12:49:00,S03404,StudyRoom,Mills Library,102,CardSwipe,True
+1184,2025-11-15,14:12:00,S04970,ComputerLab,JHE,25,FrontDesk,False
+1185,2025-11-15,21:18:00,S03448,ComputerLab,PGCLL,113,MobileApp,True
+1186,2025-11-15,14:01:00,S03703,Library,Mills Library,105,CardSwipe,False
+1187,2025-11-15,17:06:00,S00166,Library,JHE,140,CardSwipe,False
+1188,2025-11-15,13:18:00,S02713,Library,Mills Library,126,FrontDesk,True
+1189,2025-11-15,12:47:00,S03376,ComputerLab,DBAC,46,MobileApp,True
+1190,2025-11-15,20:48:00,S00246,StudyRoom,JHE,53,MobileApp,True
+1191,2025-11-15,18:27:00,S01946,StudyRoom,Thode Library,128,MobileApp,True
+1192,2025-11-15,12:16:00,S01242,StudyRoom,JHE,110,FrontDesk,True
+1193,2025-11-15,20:48:00,S00413,StudyRoom,JHE,102,CardSwipe,True
+1194,2025-11-15,12:18:00,S04962,Cafeteria,ITB,127,MobileApp,True
+1195,2025-11-15,14:31:00,S03508,Library,ITB,85,CardSwipe,False
+1196,2025-11-15,16:02:00,S01244,Gym,PGCLL,154,FrontDesk,False
+1197,2025-11-15,13:45:00,S01440,Library,ITB,78,FrontDesk,True
+1198,2025-11-15,18:42:00,S00519,ComputerLab,ITB,61,CardSwipe,True
+1199,2025-11-15,11:24:00,S03510,Gym,PGCLL,109,CardSwipe,True
+1200,2025-11-15,20:53:00,S02450,Library,PGCLL,110,MobileApp,True
