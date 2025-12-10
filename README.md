@@ -143,7 +143,7 @@ Power BI connects to Azure SQL using **DirectQuery or Import mode**.
 * **Column Chart**: Peak hour activity
 * **Date & Building slicers**
 
-![Power BI Screenshot](azure/powerbi/dashboard.png)
+![Power BI Screenshot](powerbi/dashboard.png)
 ---
 
 # 📁 **Repository Structure**
