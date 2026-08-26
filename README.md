@@ -1,15 +1,12 @@
 ---
 
-# 🟣 McMaster Campus Resource Usage Pipeline  
-### End-to-End Azure Data Engineering Project  
+# McMaster Campus Resource Usage Pipeline  
 Python • Azure Blob Storage • Azure Data Factory • Azure SQL • Power BI
 
 This project simulates and analyzes **campus resource usage patterns at McMaster University** using a fully implemented cloud-based data engineering pipeline.  
-It demonstrates practical skills in **data generation, ingestion, orchestration, transformation, storage, and reporting**, core competencies in modern data engineering.
-
 ---
 
-# 📌 **Project Overview**
+#  **Project Overview**
 
 Students access various campus buildings daily (libraries, gym, study spaces, labs). This project models that behaviour by generating **synthetic usage logs** and processing them through an Azure pipeline.
 
@@ -23,7 +20,7 @@ The final output is a **Power BI dashboard** that displays:
 
 ---
 
-# 🧱 **Tech Stack**
+#  **Tech Stack**
 
 ### **Data Generation**
 
@@ -43,7 +40,7 @@ The final output is a **Power BI dashboard** that displays:
 
 ---
 
-# 🗂️ **Architecture Diagram**
+#  **Architecture Diagram**
 
 > **Full data flow: Local Machine → Azure Cloud Backend → Analytics Layer**
 
@@ -51,7 +48,7 @@ The final output is a **Power BI dashboard** that displays:
 
 ---
 
-# 🧪 **1. Synthetic Data Generation (Python)**
+#  **1. Synthetic Data Generation (Python)**
 
 A Python script generates realistic campus usage logs for ~60 days, simulating student check-in patterns across buildings such as:
 
@@ -83,7 +80,7 @@ data/raw/
 
 ---
 
-# 💾 **2. Azure Blob Storage — Raw Zone**
+# **2. Azure Blob Storage - Raw Zone**
 
 The synthetic CSV files are uploaded to an Azure Blob Storage container:
 
@@ -94,7 +91,7 @@ Blob Storage acts as the **landing zone** for raw structured data.
 
 ---
 
-# 🔄 **3. Azure Data Factory — Orchestration Pipeline**
+# **3. Azure Data Factory - Orchestration Pipeline**
 
 A single Copy Activity pipeline performs:
 
@@ -110,7 +107,7 @@ Pipeline components:
 
 ---
 
-# 🗄️ **4. Azure SQL Database — Structured Storage**
+#  **4. Azure SQL Database - Structured Storage**
 
 A dedicated SQL table stores the clean, queryable dataset:
 
@@ -131,7 +128,7 @@ ADF inserts all processed records directly into this table.
 
 ---
 
-# 📊 **5. Power BI Dashboard**
+#  **5. Power BI Dashboard**
 
 Power BI connects to Azure SQL using **DirectQuery or Import mode**.
 
@@ -146,7 +143,7 @@ Power BI connects to Azure SQL using **DirectQuery or Import mode**.
 ![Power BI Screenshot](powerbi/dashboard.png)
 ---
 
-# 📁 **Repository Structure**
+# **Repository Structure**
 
 ```
 mcmaster-campus-usage-pipeline/
@@ -169,12 +166,6 @@ mcmaster-campus-usage-pipeline/
 ```
 
 ---
-
-# 🧑‍🎓 **Author**
-
-**Jawad Almatar**
-
 Simulated data generated ethically for educational and portfolio purposes only.
-
 ---
 
